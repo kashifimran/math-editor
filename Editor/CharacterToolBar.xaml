@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Editor.CharacterToolBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="34" d:DesignWidth="600"             
+             Loaded="UserControl_Loaded">
+    <Canvas Name="mainToolBarPanel" Height="22">
+        <StackPanel Orientation="Horizontal" Height="{Binding ElementName=mainToolBarPanel, Path=Height}">            
+            <Button x:Name="symbolsButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/symbols.png"></Image>
+            </Button>
+            <Button x:Name="greekCapitalButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"   MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/greekcapital.png"></Image>
+            </Button>
+            <Button x:Name="greekSmallButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/greeksmall.png"></Image>
+            </Button>
+            <Button x:Name="arrowsButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/arrows.png"></Image>
+            </Button>            
+        </StackPanel>
+    </Canvas>
+</UserControl>

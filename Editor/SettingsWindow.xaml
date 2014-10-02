@@ -1,0 +1,54 @@
+﻿<Window x:Class="Editor.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterOwner"
+        Title="Math Editor Settings" Height="300" Width="485" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Margin="0,0,0,40">The following default values will be used at program start-up</Label>
+            <Grid HorizontalAlignment="Stretch">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label>Default Mode</Label>
+                <ComboBox Grid.Column="1" Name="editorModeCombo" Width="150" SelectedIndex="0">
+                    <ComboBoxItem Tag="Math">Math</ComboBoxItem>
+                    <ComboBoxItem Tag="Text">Text</ComboBoxItem>
+                </ComboBox>
+            </Grid>
+            <Grid HorizontalAlignment="Stretch" Margin="0,12,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label>Default Font</Label>
+                <ComboBox Grid.Column="1" Name="equationFontCombo" Width="150" SelectedIndex="0">
+                    <ComboBoxItem Tag="STIXGeneral">STIX</ComboBoxItem>
+                    <ComboBoxItem Tag="Arial">Arial</ComboBoxItem>
+                    <ComboBoxItem Tag="ArialBlack">Arial Black</ComboBoxItem>
+                    <ComboBoxItem Tag="ComicSansMS">Comic Sans MS</ComboBoxItem>
+                    <ComboBoxItem Tag="Courier">Courier</ComboBoxItem>
+                    <ComboBoxItem Tag="CourierNew">Courier New</ComboBoxItem>
+                    <ComboBoxItem Tag="Georgia">Georgia</ComboBoxItem>
+                    <ComboBoxItem Tag="Impact">Impact</ComboBoxItem>
+                    <ComboBoxItem Tag="LucidaConsole">Lucida Console</ComboBoxItem>
+                    <ComboBoxItem Tag="LucidaSansUnicode">Lucida Sans Unicode</ComboBoxItem>
+                    <ComboBoxItem Tag="PalatinoLinotype">Palatino Linotype</ComboBoxItem>
+                    <ComboBoxItem Tag="Segoe">Segoe UI</ComboBoxItem>
+                    <ComboBoxItem Tag="Tahoma">Tahoma</ComboBoxItem>
+                    <ComboBoxItem Tag="TimesNewRoman">Times New Roman</ComboBoxItem>
+                    <ComboBoxItem Tag="TrebuchetMS">Trebuchet MS</ComboBoxItem>
+                    <ComboBoxItem Tag="Verdana">Verdana</ComboBoxItem>
+                    <ComboBoxItem Tag="Symbol">Symbol</ComboBoxItem>
+                    <ComboBoxItem Tag="Webdings">Webdings</ComboBoxItem>
+                    <ComboBoxItem Tag="Wingdings">Wingdings</ComboBoxItem>
+                </ComboBox>
+            </Grid>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,50,0,0">
+                <Button IsDefault="True" Name="okButton" Style="{StaticResource GrayButtonStyle}" FontSize="14" Click="okButton_Click" Margin="5,0" Width="70">Save</Button>
+                <Button Name="cancelButton" Style="{StaticResource GrayButtonStyle}" FontSize="14" Click="cancelButton_Click" Margin="5,0" Width="70">Cancel</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="Editor.EquationToolBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="34" d:DesignWidth="600"             
+             Loaded="UserControl_Loaded">
+    <Canvas Name="mainToolBarPanel" Height="22">        
+        <StackPanel Orientation="Horizontal" Height="{Binding ElementName=mainToolBarPanel, Path=Height}">
+            <Button x:Name="bracketsButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/brackets.png"></Image>
+            </Button>
+            <Button x:Name="decoratedEquationButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/decoratedEquation.png"></Image>
+            </Button>
+            <Button x:Name="sumsProductsButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/sumproduct.png"></Image>
+            </Button>
+            <Button x:Name="integralsButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/integrals.png"></Image>
+            </Button>
+            <Button x:Name="subAndSuperButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/subsuper.png"></Image>
+            </Button>
+            <Button x:Name="divAndRootsButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/divroot.png"></Image>
+            </Button>
+            <Button x:Name="arrowEquationButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/arrowEquation.png"></Image>
+            </Button>
+            <Button x:Name="compositeButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/composite.png"></Image>
+            </Button>
+            <Button x:Name="decoratedCharacterButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/decoratedCharacter.png"></Image>
+            </Button>
+            <Button x:Name="matrixButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/matrix.png"></Image>
+            </Button>         
+            <Button x:Name="boxButton" Style="{StaticResource ToolbarButtonStyle}" Click="toolBarButton_Click" GotFocus="toolBarButton_GotFocus"  MouseEnter="toolBarButton_MouseEnter">
+                <Image Source="images/mathbuttons/boxes.png"></Image>
+            </Button>            
+        </StackPanel>
+    </Canvas>
+</UserControl>

@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="Editor.EditorControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Editor"
+             mc:Ignorable="d" 
+             TextInput="EditorControl_TextInput"
+             KeyDown="EditorControl_KeyDown" 
+             MouseDown="EditorControl_MouseDown"             
+             MouseUp="EditorControl_MouseUp"
+             MouseMove="EditorControl_MouseMove"
+             MouseEnter="EditorControl_MouseEnter"
+             MouseLeave="EditorControl_MouseLeave"
+             Loaded="EditorControl_Loaded"              
+             MinHeight="200"
+             MinWidth="20"
+             UseLayoutRounding="True"
+             >
+    <UserControl.CommandBindings>
+        <CommandBinding Command="DecreaseZoom"  Executed="ZoomOutHandler"/>
+        <CommandBinding Command="IncreaseZoom"  Executed="ZoomInHandler"/>
+    </UserControl.CommandBindings>
+    <UserControl.InputBindings>
+        <MouseBinding Gesture="{x:Static local:MouseWheelGesture.CtrlUp}"  Command="IncreaseZoom"/>
+        <MouseBinding Gesture="{x:Static local:MouseWheelGesture.CtrlDown}"  Command="DecreaseZoom"/>
+    </UserControl.InputBindings>
+    <Grid Name="mainGrid"></Grid>
+</UserControl>

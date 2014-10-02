@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/MathiVersity.Libraries.BO" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/MathiVersity.Libraries.BO" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfStorageFile">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="StorageFile" nillable="true" type="tns:StorageFile" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfStorageFile" nillable="true" type="tns:ArrayOfStorageFile" />
+  <xs:complexType name="StorageFile">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Body" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TimeStamp" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserID" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StorageFile" nillable="true" type="tns:StorageFile" />
+  <xs:complexType name="FileUploadResult">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FailureStatus" type="tns:FileUploadFailureStatus" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FileUploadResult" nillable="true" type="tns:FileUploadResult" />
+  <xs:simpleType name="FileUploadFailureStatus">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="CredentialsInvalid" />
+      <xs:enumeration value="FileInvalid" />
+      <xs:enumeration value="LimitExceded" />
+      <xs:enumeration value="Unknown" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="FileUploadFailureStatus" nillable="true" type="tns:FileUploadFailureStatus" />
+</xs:schema>

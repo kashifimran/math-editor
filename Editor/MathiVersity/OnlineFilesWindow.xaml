@@ -1,0 +1,38 @@
+﻿<Window x:Class="Editor.OnlineFilesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="OnlineFilesWindow" Height="450" Width="500"
+        ResizeMode="NoResize"
+        Closing="Window_Closing"
+        IsVisibleChanged="Window_IsVisibleChanged"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button HorizontalAlignment="Right" Margin="0,5,20,5">Refresh</Button>
+        <ScrollViewer Grid.Row="1">
+            <ListView Name="filesListView">                
+                <ListView.View>
+                    <GridView>
+                        <GridView.Columns>
+                            <!--<GridViewColumn Header="ID" DisplayMemberBinding="{Binding Path=ID}" />-->
+                            <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Path=Title}" Width="300" />
+                            <GridViewColumn Header="Actions">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Margin="6,2,6,2" Orientation="Horizontal">
+                                            <Button Name="deleteFileButton" Click="deleteFileButton_Click" Width="50" Margin="0,0,10,0">Delete</Button>
+                                            <Button Name="openFileButton" Click="openFileButton_Click"  Width="50">Open</Button>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                        </GridView.Columns>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </ScrollViewer>
+    </Grid>
+</Window>

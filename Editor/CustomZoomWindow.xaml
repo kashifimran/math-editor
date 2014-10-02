@@ -1,0 +1,17 @@
+﻿<Window x:Class="Editor.CustomZoomWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Zoom Level" Height="104" Width="378"
+        WindowStartupLocation="CenterOwner"
+        WindowStyle="ToolWindow"
+        ResizeMode="NoResize"        
+        >
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox x:Name="numberBox" Width="100" Margin="5,0,0,0" PreviewTextInput="numberBox_PreviewTextInput"></TextBox>
+            <Label>%</Label>
+            <Button IsDefault="True" Name="okButton" Style="{StaticResource GrayButtonStyle}" FontSize="14" Click="okButton_Click" Margin="5,0" Width="70">OK</Button>
+            <Button Name="cancelButton" Style="{StaticResource GrayButtonStyle}" FontSize="14" Click="cancelButton_Click" Margin="5,0" Width="70">Cancel</Button>
+        </StackPanel>
+    </Grid>
+</Window>

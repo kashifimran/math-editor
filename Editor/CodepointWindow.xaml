@@ -1,0 +1,28 @@
+﻿<Window x:Class="Editor.CodepointWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Enter Unicode Value" Height="178" Width="378"
+        WindowStartupLocation="CenterOwner"
+        WindowStyle="ToolWindow"
+        ResizeMode="NoResize"        
+>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions> 
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,50,0,0">
+            <Label>Unicode Value:</Label>
+            <TextBox x:Name="numberBox" Width="100" Margin="5,0,0,0" PreviewTextInput="numberBox_PreviewTextInput"></TextBox>
+            <ComboBox Name="codeFormatComboBox" Width="100" SelectionChanged="codeFormatComboBox_SelectionChanged" SelectedIndex="0">
+                <ComboBoxItem Tag="10">Decimal</ComboBoxItem>
+                <ComboBoxItem Tag="8">Octal</ComboBoxItem>
+                <ComboBoxItem Tag="16">Hexadecimal</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Height="25" Margin="0,30,0,0" HorizontalAlignment="Center">            
+            <Button IsDefault="True" Name="insertButton" Style="{StaticResource GrayButtonStyle}" FontSize="14" Click="insertButton_Click" Margin="5,0" Width="70">Insert</Button>
+            <Button Name="closeButton" Style="{StaticResource GrayButtonStyle}" FontSize="14" Click="closeButton_Click" Margin="5,0" Width="70">Close</Button>
+        </StackPanel>
+    </Grid>
+</Window>

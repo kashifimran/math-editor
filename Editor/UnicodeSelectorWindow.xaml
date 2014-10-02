@@ -1,0 +1,73 @@
+﻿<Window x:Class="Editor.UnicodeSelectorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Insert Symbol" Height="432" Width="750"
+        WindowStartupLocation="CenterOwner"        
+        MouseUp="Window_MouseUp"
+        >
+    <Window.Resources>
+    </Window.Resources>
+    <Grid Name="mainGrid" Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <UniformGrid Columns="2" HorizontalAlignment="Stretch" Margin="0,0,0,5">
+            <StackPanel Orientation="Horizontal">
+                <Label>Category:</Label>
+                <ComboBox Width="280" MaxDropDownHeight="300" Name="categoryBox" SelectionChanged="categoryBox_SelectionChanged" ItemsSource="{Binding categories}"></ComboBox>
+            </StackPanel>
+        </UniformGrid>
+        <ListBox Name="symbolListBox" Grid.Row="1"  SnapsToDevicePixels="True" SelectionChanged="symbolList_SelectionChanged" 
+                 MouseUp="characterListBox_MouseUp">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel IsItemsHost="True" 
+                               Width="{Binding Path=ActualWidth, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type ScrollContentPresenter}}}" >
+                    </WrapPanel>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderThickness="1" Margin="2" Width="{Binding Path=ActualHeight, RelativeSource={RelativeSource Mode=Self}}" BorderBrush="Black">
+                        <TextBlock Margin="1" Padding="2" VerticalAlignment="Center" HorizontalAlignment="Center" Panel.ZIndex="1" Text="{Binding UnicodeText}"></TextBlock>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Grid.Row="2" Margin="0,10,0,0">
+            <TextBlock FontSize="14">Recently used symbols:</TextBlock>
+            <ListBox Name="recentListBox" SelectionChanged="recentListBox_SelectionChanged" MouseUp="characterListBox_MouseUp" MinHeight="42">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"></StackPanel>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderThickness="1" Margin="2" Width="{Binding Path=ActualHeight, RelativeSource={RelativeSource Mode=Self}}" BorderBrush="Black">
+                            <TextBlock Margin="1" Padding="2" VerticalAlignment="Center" HorizontalAlignment="Center" Panel.ZIndex="1" Text="{Binding UnicodeText}"></TextBlock>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Margin="0,10,0,0">
+            <Label>Character code:</Label>
+            <TextBox Style="{DynamicResource CharacterTextBoxStyle}" Name="characterCode" BorderThickness="1" BorderBrush="Black" SnapsToDevicePixels="True" VerticalAlignment="Center" Margin="5,0" Width="50" IsReadOnly="True"></TextBox>
+            <ComboBox Name="codeFormatComboBox" Width="100" SelectionChanged="codeFormatComboBox_SelectionChanged" SelectedIndex="0">
+                <ComboBoxItem Tag="10">Decimal</ComboBoxItem>
+                <ComboBoxItem Tag="8">Octal</ComboBoxItem>
+                <ComboBoxItem Tag="16">Hexadecimal</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="4" HorizontalAlignment="Right" Margin="0,10">
+            <Label FontSize="14">(You can double-click a character to insert it)</Label>
+            <Button Name="insertButton" Style="{StaticResource GrayButtonStyle}" FontSize="14" Padding="6,2" Width="80" Margin="6,0" Click="insertButton_Click">Insert</Button>
+            <Button Name="closeButton" Style="{StaticResource GrayButtonStyle}" FontSize="14" Padding="6,2" Width="80" Margin="6,0" Click="closeButton_Click">Close</Button>
+        </StackPanel>
+    </Grid>
+</Window>
