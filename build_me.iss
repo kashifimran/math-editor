@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Math Editor"
-#define MyAppVersion "1.6.0.5"
+#define MyAppVersion "1.0.6.5"
 #define MyAppPublisher "MathiVersity"
 #define MyAppURL "http://www.mathiversity.com/"
 #define MyAppExeName "Editor.exe"
@@ -21,8 +21,9 @@ AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 DefaultDirName={pf}\Math Editor 1.6.0
 DefaultGroupName={#MyAppName}
+LicenseFile=LICENSE.md
 OutputDir= build
-OutputBaseFilename=math_editor_1.0.6.5_setup
+OutputBaseFilename=math_editor_{#MyAppVersion}_setup
 SetupIconFile=Editor\app_icon.ico
 Compression=lzma
 SolidCompression=yes
