@@ -89,16 +89,7 @@
                         <MenuItem Name="customZoomMenu" Header="_Custom" Click="CustomZoomMenuItem_Click" IsCheckable="True"></MenuItem>
                     </MenuItem>
                     <MenuItem x:Name="showNestingMenuItem" Header="Show Nesting" Click="showNestingMenuItem_Click"></MenuItem>
-                </MenuItem>
-                <MenuItem x:Name="mvMenuItem" Header="_Online Storage" Visibility="Collapsed">
-                    <MenuItem x:Name="loginMenuItem" Header="Log_in" Click="loginMenuItem_Click"/>
-                    <MenuItem x:Name="logoutMenuItem" Header="Log_out" Click="logoutMenuItem_Click"/>
-                    <MenuItem x:Name="saveOnlineMenuItem" Header="_Save" Click="saveOnlineMenuItem_Click"/>
-                    <MenuItem x:Name="saveAsOnlineMenuItem" Header="Save _As" Click="saveAsOnlineMenuItem_Click"/>
-                    <MenuItem x:Name="viewOnlineFilesMenuItem" Header="_View Files" Click="viewOnlineFilesMenuItem_Click"/>
-                    <Separator />
-                    <MenuItem x:Name="mvHelpMenuItem" Header="_Help on this" Click="mvHelpMenuItem_Click"/>
-                </MenuItem>
+                </MenuItem>                
                 <MenuItem x:Name="toolsMenuItem" Header="_Tools">
                     <MenuItem x:Name="settingsMenuItem" Header="_Settings" Click="settingsMenuItem_Click"/>                    
                 </MenuItem>

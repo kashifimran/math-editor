@@ -17,7 +17,6 @@ using System.IO;
 using System.Reflection;
 using System.ComponentModel;
 using System.Windows.Controls.Primitives;
-using Editor.MVStorage;
 
 namespace Editor
 {
@@ -29,12 +28,9 @@ namespace Editor
         public event PropertyChangedEventHandler PropertyChanged = (x, y) => { };
         string version = Assembly.GetEntryAssembly().GetName().Version.ToString();
         string currentLocalFile = "";
-        string currentOnlineFile = "";
         static string meExtension = "med";
         static string meFileFilter = "Math Editor File (*." + meExtension + ")|*." + meExtension;
-
-
-        OnlineFilesWindow window = null;
+        
 
         public MainWindow()
         {
@@ -64,9 +60,6 @@ namespace Editor
             underbarToggle.IsChecked = true;
             TextEquation.InputPropertyChanged += new System.ComponentModel.PropertyChangedEventHandler(TextEquation_InputPropertyChanged);
             editor.ZoomChanged += new EventHandler(editor_ZoomChanged);
-            MVService.UserLoggedIn += new EventHandler(MVService_UserLoggedIn);
-            MVService.UserLoggedOut += new EventHandler(MVService_UserLoggedOut);
-            ProcessLogout();
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
@@ -101,39 +94,8 @@ namespace Editor
             }
             ChangeEditorMode();
             ChangeEditorFont();
-            editor.Focus();
-            window = new OnlineFilesWindow(this)
-            {
-                Owner = this,
-                Topmost = true,
-                ShowInTaskbar = false,
-                WindowStartupLocation = System.Windows.WindowStartupLocation.CenterOwner
-            };
-        }
-
-        void MVService_UserLoggedOut(object sender, EventArgs e)
-        {
-            ProcessLogout();
-        }
-
-        private void ProcessLogout()
-        {
-            loginMenuItem.IsEnabled = true;
-            loginMenuItem.Header = "Login";
-            logoutMenuItem.IsEnabled = false;
-            saveOnlineMenuItem.IsEnabled = false;
-            saveAsOnlineMenuItem.IsEnabled = false;
-            viewOnlineFilesMenuItem.IsEnabled = false;
-        }
-
-        void MVService_UserLoggedIn(object sender, EventArgs e)
-        {
-            loginMenuItem.IsEnabled = false;
-            loginMenuItem.Header = "Logged in";
-            logoutMenuItem.IsEnabled = true;
-            saveAsOnlineMenuItem.IsEnabled = true;
-            viewOnlineFilesMenuItem.IsEnabled = true;
-        }
+            editor.Focus();            
+        }        
 
         void editor_SelectionUnavailable(object sender, EventArgs e)
         {
@@ -315,9 +277,6 @@ namespace Editor
 
         private void OpenFile(string fileName)
         {
-            storageFile = null;
-            currentOnlineFile = "";
-            saveOnlineMenuItem.IsEnabled = false;
             try
             {
                 using (Stream stream = File.OpenRead(fileName))
@@ -336,22 +295,9 @@ namespace Editor
 
         void SetTitle()
         {
-            if (currentLocalFile.Length > 0 || currentOnlineFile.Length > 0)
+            if (currentLocalFile.Length > 0)
             {
-                string fileString = currentLocalFile;
-                if (currentLocalFile.Length > 0 && currentOnlineFile.Length > 0)
-                {
-                    fileString += " {";
-                }
-                if (currentOnlineFile.Length > 0)
-                {
-                    fileString += "Online: " + currentOnlineFile;
-                }
-                if (currentLocalFile.Length > 0 && currentOnlineFile.Length > 0)
-                {
-                    fileString += "}";
-                }
-                Title = fileString + " - Math Editor v." + version;
+                Title = currentLocalFile + " - Math Editor v." + version;
             }
             else
             {
@@ -818,112 +764,11 @@ namespace Editor
             ChangeEditorMode();
         }
 
-
-        private void loginMenuItem_Click(object sender, RoutedEventArgs e)
-        {
-            LoginForm form = new LoginForm();
-            form.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            form.ShowDialog(this);
-        }
-
-        private void logoutMenuItem_Click(object sender, RoutedEventArgs e)
-        {
-            MVService.Logout();
-        }
-
         private void mvHelpMenuItem_Click(object sender, RoutedEventArgs e)
         {
             System.Diagnostics.Process.Start("http://www.MathiVersity.com/MathEditor/Documentation/Online-Storage");
-        }
-
-        private void saveOnlineMenuItem_Click(object sender, RoutedEventArgs e)
-        {
-            if (storageFile != null)
-            {
-                this.Cursor = Cursors.Wait;
-                using (MemoryStream ms = new MemoryStream())
-                {
-                    try
-                    {
-                        editor.SaveFile(ms, storageFile.Title);
-                        ms.Position = 0;
-                        storageFile.Body = Convert.ToBase64String(ms.ToArray());
-                        MVService.UpdateFile(storageFile);
-                    }
-                    catch
-                    {
-                        MessageBox.Show("An error occurred. File could not be uploaded", "Error!");
-                        editor.Dirty = true;
-                    }
-                }
-                this.Cursor = Cursors.Arrow;
-            }
-            else
-            {
-                ProcessSaveAsOnline();
-            }
-        }
-
-        StorageFile storageFile = null;
-        public void OpenOnlineFile(StorageFile file)
-        {
-            if (editor.Dirty)
-            {
-                MessageBoxResult result = MessageBox.Show("Do you want to save the current document before closing?", "Please confirm", MessageBoxButton.YesNoCancel);
-                if (result == MessageBoxResult.Cancel)
-                {
-                    return;
-                }
-                else if (result == MessageBoxResult.Yes)
-                {
-                    if (!ProcessFileSave())
-                    {
-                        return;
-                    }
-                }
-            }
-            try
-            {
-                using (MemoryStream ms = new MemoryStream(Convert.FromBase64String(file.Body)))
-                {
-                    editor.LoadFile(ms);
-                    currentOnlineFile = file.Title;
-                    storageFile = file;
-                    saveOnlineMenuItem.IsEnabled = true;
-                    currentLocalFile = "";
-                    SetTitle();
-                }
-            }
-            catch
-            {
-                currentOnlineFile = "";
-                MessageBox.Show("File is corrupt or inaccessible OR it was created by an incompatible version of Math Editor.", "Error");
-            }
-        }
-
-        private void viewOnlineFilesMenuItem_Click(object sender, RoutedEventArgs e)
-        {
-            window.ShowDialog();
-        }
-
-        private void saveAsOnlineMenuItem_Click(object sender, RoutedEventArgs e)
-        {
-            ProcessSaveAsOnline();
-        }
-
-        private void ProcessSaveAsOnline()
-        {
-            FileUploadForm form = new FileUploadForm(editor, currentLocalFile.Length > 0 ? Path.GetFileName(currentLocalFile) : currentOnlineFile);
-            form.FileSavedOnline += new FileSaved(form_FileSavedOnline);
-            form.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            form.ShowDialog(this);
-        }
-
-        void form_FileSavedOnline(string fileName)
-        {
-            currentOnlineFile = fileName;
-            SetTitle();
-        }
+        }   
+      
 
         private void NewCommandHandler(object sender, ExecutedRoutedEventArgs e)
         {
@@ -943,9 +788,6 @@ namespace Editor
                 }
             }
             currentLocalFile = "";
-            currentOnlineFile = "";
-            saveOnlineMenuItem.IsEnabled = false;
-            storageFile = null;
             SetTitle();
             editor.Clear();
         }

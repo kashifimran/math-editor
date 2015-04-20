@@ -22,6 +22,7 @@ namespace Editor
     {
         int maxSymbols = 30;
         ObservableCollection<string> recentList = new ObservableCollection<string>();
+        Dictionary<string, int> usedCount = new Dictionary<string, int>();
 
         public HistoryToolBar()
         {
@@ -31,10 +32,11 @@ namespace Editor
             var data = ConfigManager.GetConfigurationValue(KeyName.symbols);
             if (data.Length > 0)
             {
-                string [] list = data.Split(',');
+                string[] list = data.Split(',');
                 foreach (var s in list)
                 {
                     recentList.Add(s);
+                    usedCount.Add(s, 0);
                 }
             }
             recentListBox.FontFamily = FontFactory.GetFontFamily(FontType.STIXGeneral);
@@ -42,15 +44,30 @@ namespace Editor
 
         public void AddItem(string symbol)
         {
-            if (recentList.Contains(symbol))
+            if (usedCount.ContainsKey(symbol))
             {
-                recentList.Remove(symbol);
+                usedCount[symbol] += 1;
             }
-            else if (recentList.Count >= maxSymbols)
+            else
             {
-                recentList.RemoveAt(recentList.Count - 1);
+                if (usedCount.Count >= maxSymbols)
+                {
+                    int min = int.MaxValue;
+                    string s = usedCount.First().Key;
+                    foreach (var pair in usedCount)
+                    {
+                        if (pair.Value < min)
+                        {
+                            min = pair.Value;
+                            s = pair.Key;
+                        }
+                    }
+                    recentList.Remove(s);
+                    usedCount.Remove(s);
+                }
+                recentList.Insert(0, symbol);
+                usedCount.Add(symbol, 1);
             }            
-            recentList.Insert(0, symbol);
         }
 
         private void symbolClick(object sender, MouseButtonEventArgs e)

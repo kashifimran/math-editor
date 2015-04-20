@@ -17,6 +17,21 @@
     <WarningLevel>4</WarningLevel>
     <Utf8Output>true</Utf8Output>
     <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -155,43 +170,11 @@
     <Compile Include="HistoryToolBar.xaml.cs">
       <DependentUpon>HistoryToolBar.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MathiVersity\FileUploadForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MathiVersity\FileUploadForm.designer.cs">
-      <DependentUpon>FileUploadForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MathiVersity\LoginForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MathiVersity\LoginForm.designer.cs">
-      <DependentUpon>LoginForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MathiVersity\MVService.cs" />
-    <Compile Include="MathiVersity\RegistrationForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MathiVersity\RegistrationForm.designer.cs">
-      <DependentUpon>RegistrationForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="MatrixInputForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MatrixInputForm.Designer.cs">
       <DependentUpon>MatrixInputForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MathiVersity\OnlineFilesWindow.xaml.cs">
-      <DependentUpon>OnlineFilesWindow.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Service References\MVAuthentication\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
-    <Compile Include="Service References\MVStorage\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
     <Compile Include="SettingsWindow.xaml.cs">
       <DependentUpon>SettingsWindow.xaml</DependentUpon>
@@ -293,10 +276,6 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MathiVersity\OnlineFilesWindow.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="SettingsWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -323,15 +302,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <EmbeddedResource Include="MathiVersity\FileUploadForm.resx">
-      <DependentUpon>FileUploadForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MathiVersity\LoginForm.resx">
-      <DependentUpon>LoginForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MathiVersity\RegistrationForm.resx">
-      <DependentUpon>RegistrationForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="MatrixInputForm.resx">
       <DependentUpon>MatrixInputForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -340,38 +310,6 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <None Include="Service References\MVAuthentication\Authentication.wsdl" />
-    <None Include="Service References\MVAuthentication\Authentication.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\MVAuthentication\Authentication1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\MVAuthentication\Authentication2.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\MVAuthentication\Authentication3.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\MVAuthentication\Editor.MVAuthentication.RegisterResult.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </None>
-    <None Include="Service References\MVStorage\Editor.MVStorage.FileUploadResult.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </None>
-    <None Include="Service References\MVStorage\Editor.MVStorage.StorageFile.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </None>
-    <None Include="Service References\MVStorage\Storage.wsdl" />
-    <None Include="Service References\MVStorage\Storage.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\MVStorage\Storage1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\MVStorage\Storage2.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="app.config" />
     <None Include="MESign.pfx" />
     <None Include="Properties\Settings.settings">
@@ -800,41 +738,26 @@
     <Resource Include="images\commands\decorated\character\TriplePrime.png" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Service References\MVAuthentication\" />
-    <WCFMetadataStorage Include="Service References\MVStorage\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MVAuthentication\Authentication.disco" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MVAuthentication\configuration91.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MVAuthentication\configuration.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MVAuthentication\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MVStorage\Storage.disco" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MVStorage\configuration91.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MVStorage\configuration.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MVStorage\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
