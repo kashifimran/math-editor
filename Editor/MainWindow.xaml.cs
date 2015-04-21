@@ -42,17 +42,17 @@ namespace Editor
             SetTitle();
             AddHandler(UIElement.MouseDownEvent, new MouseButtonEventHandler(MainWindow_MouseDown), true);
             Task.Factory.StartNew(CheckForUpdate);
-            if (ConfigManager.GetConfigurationValue(KeyName.firstTime) == "true" || ConfigManager.GetConfigurationValue(KeyName.version) != version)
-            {
-                string successMessage = "";
-                if (ConfigManager.SetConfigurationValue(KeyName.firstTime, "false") && ConfigManager.SetConfigurationValue(KeyName.version, version))
-                {
-                    successMessage = "\r\n\r\nThis message will not be shown again.";
-                }
-                MessageBox.Show("Thanks for using Math Editor. Math Editor is under constant development and we regularly release better versions of this product." + Environment.NewLine + Environment.NewLine +
-                                "Please help us by sending your suggestions, feature requests or bug reports using our facebook page or our website (see help)." + Environment.NewLine + Environment.NewLine +
-                                successMessage, "Important message");
-            }
+            //if (ConfigManager.GetConfigurationValue(KeyName.firstTime) == "true" || ConfigManager.GetConfigurationValue(KeyName.version) != version)
+            //{
+            //    string successMessage = "";
+            //    if (ConfigManager.SetConfigurationValue(KeyName.firstTime, "false") && ConfigManager.SetConfigurationValue(KeyName.version, version))
+            //    {
+            //        successMessage = "\r\n\r\nThis message will not be shown again.";
+            //    }
+            //    MessageBox.Show("Thanks for using Math Editor. Math Editor is under constant development and we regularly release better versions of this product." + Environment.NewLine + Environment.NewLine +
+            //                    "Please help us by sending your suggestions, feature requests or bug reports using our facebook page or our website (see help)." + Environment.NewLine + Environment.NewLine +
+            //                    successMessage, "Important message");
+            //}
             UndoManager.CanUndo += (a, b) => { undoButton.IsEnabled = b.ActionPossible; };
             UndoManager.CanRedo += (a, b) => { redoButton.IsEnabled = b.ActionPossible; };
             EquationBase.SelectionAvailable += new EventHandler<EventArgs>(editor_SelectionAvailable);
