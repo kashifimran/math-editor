@@ -157,7 +157,7 @@ namespace Editor
                                             "New version available",
                                             MessageBoxButton.YesNo) == MessageBoxResult.Yes)
                         {
-                            Process.Start("http://www.mathiversity.com/Downloads");
+                            BrowserHelper.Open("http://www.mathiversity.com/Downloads");
                         }
                         break;
                     }
@@ -455,7 +455,7 @@ namespace Editor
 
         private void contentsMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start("http://mathiversity.com/MathEditor/Documentation");
+            BrowserHelper.Open("http://mathiversity.com/MathEditor/Documentation");
         }
 
         private void aboutMenuItem_Click(object sender, RoutedEventArgs e)
@@ -467,7 +467,7 @@ namespace Editor
 
         private void videoMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start("http://youtu.be/_j6R2mv3StQ");
+            BrowserHelper.Open("http://youtu.be/_j6R2mv3StQ");
         }
 
         private void deleteMenuItem_Click(object sender, RoutedEventArgs e)
@@ -521,7 +521,7 @@ namespace Editor
 
         private void fbMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start("http://www.facebook.com/matheditor");
+            BrowserHelper.Open("http://www.facebook.com/matheditor");
         }
 
         MenuItem lastZoomMenuItem = null;
@@ -634,12 +634,12 @@ namespace Editor
 
         private void meLinkClick(object sender, RoutedEventArgs e)
         {
-            Process.Start("http://mathiversity.com/MathEditor");
+            BrowserHelper.Open("http://mathiversity.com/MathEditor");
         }
 
         private void spiroLinkClick(object sender, RoutedEventArgs e)
         {
-            Process.Start("http://mathiversity.com/Spirograph");
+            BrowserHelper.Open("http://mathiversity.com/Spirograph");
         }
 
         public bool InputBold
@@ -766,9 +766,8 @@ namespace Editor
 
         private void mvHelpMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.MathiVersity.com/MathEditor/Documentation/Online-Storage");
-        }   
-      
+            BrowserHelper.Open("http://www.MathiVersity.com/MathEditor/Documentation/Online-Storage");
+        }
 
         private void NewCommandHandler(object sender, ExecutedRoutedEventArgs e)
         {

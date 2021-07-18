@@ -50,11 +50,15 @@ namespace Editor
         {
             try
             {
-                return appSection.Settings[key.ToString()].Value;
+                if (appSection.Settings.AllKeys.Contains(key.ToString()))
+                {
+                    return appSection.Settings[key.ToString()].Value;
+                }
+                return string.Empty;
             }
             catch
             {
-                return "";
+                return string.Empty;
             }
         }
 

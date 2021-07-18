@@ -27,7 +27,7 @@ namespace Editor
 
         private void LinkTextBlock_MouseUp(object sender, MouseButtonEventArgs e)
         {
-            System.Diagnostics.Process.Start(((TextBlock)sender).Text);
+            BrowserHelper.Open(((TextBlock)sender).Text);
         }
 
         private void okButton_Click(object sender, RoutedEventArgs e)
