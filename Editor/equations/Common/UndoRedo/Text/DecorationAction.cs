@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Editor
+﻿namespace Editor
 {
     public class DecorationAction : EquationAction
     {
@@ -14,6 +9,12 @@ namespace Editor
             : base(executor)
         {
             Added = added;
+            CharacterDecorations = cdi;
+        }
+
+        public DecorationAction(ISupportsUndo executor, CharacterDecorationInfo[] cdi)
+            : base(executor)
+        {
             CharacterDecorations = cdi;
         }
     }
