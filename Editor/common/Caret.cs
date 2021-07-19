@@ -1,16 +1,16 @@
 using System;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media;
-using System.Windows.Controls;
-using System.Collections.Generic;
 
 namespace Editor
 {
-    public class Caret : FrameworkElement
+    public sealed class Caret : FrameworkElement
     {
-        Point location;
+        private Point location;
         public double CaretLength { get; set; }
-        bool isHorizontal = false;
+
+        private readonly bool isHorizontal = false;
 
         public static readonly DependencyProperty VisibleProperty = DependencyProperty.Register("Visible", typeof(bool), typeof(Caret), new FrameworkPropertyMetadata(false /* defaultValue */, FrameworkPropertyMetadataOptions.AffectsRender));
 
@@ -33,7 +33,7 @@ namespace Editor
             }
         }
 
-        Point OtherPoint
+        private Point OtherPoint
         {
             get
             {
@@ -61,7 +61,14 @@ namespace Editor
             }
             set
             {
-                SetValue(VisibleProperty, value);
+                try
+                {
+                    SetValue(VisibleProperty, value);
+                }
+                catch (TaskCanceledException)
+                {
+                    // when the object got disposed, the SetValue operation will fail
+                }
             }
         }
 
