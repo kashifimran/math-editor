@@ -13,7 +13,7 @@ namespace Editor
         public TextEquation EquationAfter { get; set; }
         public bool Added { get; set; }
 
-        public RowAction(ISupportsUndo executor, EquationBase equation, TextEquation equationAfter, int index, int caretIndex, bool added)
+        public RowAction(ISupportsUndo executor, EquationBase equation, TextEquation equationAfter, int index, int caretIndex, bool added = false)
             : base(executor)
         {
             Index = index;

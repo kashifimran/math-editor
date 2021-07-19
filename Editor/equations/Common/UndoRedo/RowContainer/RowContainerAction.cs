@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Editor
-{   
+﻿namespace Editor
+{
     public class RowContainerAction : EquationAction
     {
         public int Index { get; set; }
@@ -21,6 +16,15 @@ namespace Editor
             CaretIndex = caretIndex;
             Equation = equation;
             Added = added;
+        }
+
+        public RowContainerAction(ISupportsUndo executor, int index, int childIndexInRow, int caretIndex, EquationRow equation)
+            : base(executor)
+        {
+            Index = index;
+            ChildIndexInRow = childIndexInRow;
+            CaretIndex = caretIndex;
+            Equation = equation;
         }
     }
 }
