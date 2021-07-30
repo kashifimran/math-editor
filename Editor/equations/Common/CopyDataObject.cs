@@ -3,7 +3,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class CopyDataObject
+    public sealed class CopyDataObject
     {
         public BitmapSource Image { get; set; }
         public string Text { get; set; }

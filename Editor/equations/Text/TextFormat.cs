@@ -5,7 +5,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class TextFormat
+    public sealed class TextFormat
     {
         public double FontSize { get; private set; }
         public FontType FontType { get; private set; }

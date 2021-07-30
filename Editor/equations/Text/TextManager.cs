@@ -10,7 +10,7 @@ using System.Xml.Linq;
 namespace Editor
 {
     //Only those EquationBase classes should use it which are able to remeber the formats (as of May 15, 2013 only TextEquation)!!
-    public class TextManager
+    public sealed class TextManager
     {
         List<TextFormat> formattingList = new List<TextFormat>();
         List<TextDecorationCollection> decorations = new List<TextDecorationCollection>();

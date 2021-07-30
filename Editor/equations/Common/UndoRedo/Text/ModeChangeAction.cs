@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class ModeChangeAction : EquationAction
+    public sealed class ModeChangeAction : EquationAction
     {
         public int Index { get; set; }
         public EditorMode[] OldModes { get; set; }

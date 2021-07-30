@@ -2,7 +2,7 @@
 
 namespace Editor
 {
-    public class MouseWheelGesture : MouseGesture
+    public sealed class MouseWheelGesture : MouseGesture
     {
         public WheelDirection Direction { get; set; }
 

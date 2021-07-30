@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class BottomBracket : HorizontalBracket
+    public sealed class BottomBracket : HorizontalBracket
     {
         public BottomBracket(EquationContainer parent, HorizontalBracketSignType signType)
              :base (parent, signType)

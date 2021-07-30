@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class TextAction : EquationAction
+    public sealed class TextAction : EquationAction
     {
         public int Index { get; set; }
         public string Text { get; set; }

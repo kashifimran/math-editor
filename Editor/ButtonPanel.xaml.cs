@@ -55,7 +55,7 @@ namespace Editor
         }
     }
 
-    public class EditorToolBarButton : Button
+    public sealed class EditorToolBarButton : Button
     {
         CommandDetails commandDetails = null;
 

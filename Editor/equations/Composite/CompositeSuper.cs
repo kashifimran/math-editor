@@ -5,7 +5,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class CompositeSuper : CompositeBase
+    public sealed class CompositeSuper : CompositeBase
     {        
         RowContainer topRowContainer;       
 

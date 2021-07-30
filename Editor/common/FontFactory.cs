@@ -7,7 +7,7 @@ using System.Windows.Media;
 
 namespace Editor
 {
-    public class FontFactory
+    public sealed class FontFactory
     {
         private FontFactory() { }
         static Dictionary<FontType, FontFamily> fontFamilies = new Dictionary<FontType, FontFamily>();

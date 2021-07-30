@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class DivMathWithTop : DivMathWithOuterBase
+    public sealed class DivMathWithTop : DivMathWithOuterBase
     {
         public DivMathWithTop(EquationContainer parent)
             : base(parent)

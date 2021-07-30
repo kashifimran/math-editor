@@ -5,7 +5,7 @@ using System.Windows.Media;
 
 namespace Editor
 {
-    public class BracketSign : EquationBase
+    public sealed class BracketSign : EquationBase
     {
         public BracketSignType SignType { get; set; }
         FormattedText signText; //used by certain brackets

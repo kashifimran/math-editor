@@ -5,7 +5,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class SubAndSuper : SubSuperBase
+    public sealed class SubAndSuper : SubSuperBase
     {   
         RowContainer superEquation;
         RowContainer subEquation;

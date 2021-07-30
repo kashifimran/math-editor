@@ -9,7 +9,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class EquationRow : EquationContainer, ISupportsUndo
+    public sealed class EquationRow : EquationContainer, ISupportsUndo
     {
         protected EquationContainer deleteable = null;
         static Pen boxPen = new Pen(Brushes.Blue, 1.1) { StartLineCap = PenLineCap.Flat, EndLineCap = PenLineCap.Flat };

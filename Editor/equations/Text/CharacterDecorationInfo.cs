@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class CharacterDecorationInfo
+    public sealed class CharacterDecorationInfo
     {
         public CharacterDecorationType DecorationType { get; set; }
         public Position Position { get; set; }

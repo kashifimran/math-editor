@@ -3,7 +3,7 @@ using System.Windows.Media;
 
 namespace Editor
 {
-    public class HorizontalBracketSign : EquationBase
+    public sealed class HorizontalBracketSign : EquationBase
     {
         public HorizontalBracketSignType SignType { get; private set; }
         FormattedText sign = null;

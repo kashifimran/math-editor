@@ -3,7 +3,7 @@ using System.Windows.Media;
 
 namespace Editor
 {
-    public class DecoratedCharacter : EquationBase
+    public sealed class DecoratedCharacter : EquationBase
     {
         List<CharacterDecorationInfo> decorations = new List<CharacterDecorationInfo>();
         FormattedText charFt;

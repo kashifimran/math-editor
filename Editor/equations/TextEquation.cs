@@ -11,7 +11,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class TextEquation : EquationBase, ISupportsUndo
+    public sealed class TextEquation : EquationBase, ISupportsUndo
     {
         static HashSet<char> symbols = new HashSet<char>() 
         { 

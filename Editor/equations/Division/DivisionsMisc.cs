@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class DivRegularSmall : DivRegular
+    public sealed class DivRegularSmall : DivRegular
     {
         public DivRegularSmall(EquationContainer parent)
             : base(parent, true)
@@ -8,7 +8,7 @@
         }
     }
 
-    public class DivDoubleBar : DivRegular
+    public sealed class DivDoubleBar : DivRegular
     {
         public DivDoubleBar(EquationContainer parent)
             : base(parent)
@@ -17,7 +17,7 @@
         }
     }
 
-    public class DivTripleBar : DivRegular
+    public sealed class DivTripleBar : DivRegular
     {
         public DivTripleBar(EquationContainer parent)
             : base(parent)
@@ -26,7 +26,7 @@
         }
     }
 
-    public class DivSlantedSmall : DivSlanted
+    public sealed class DivSlantedSmall : DivSlanted
     {
         public DivSlantedSmall(EquationContainer parent)
             : base(parent, true)
@@ -34,7 +34,7 @@
         }
     }
 
-    public class DivHorizSmall : DivHorizontal
+    public sealed class DivHorizSmall : DivHorizontal
     {
         public DivHorizSmall(EquationContainer parent)
             : base(parent, true)

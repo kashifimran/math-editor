@@ -11,7 +11,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class RowContainer : EquationContainer, ISupportsUndo
+    public sealed class RowContainer : EquationContainer, ISupportsUndo
     {
         double lineSpaceFactor;
         double LineSpace

@@ -2,7 +2,7 @@
 
 namespace Editor
 {
-    public class LeftRightBracket : Bracket
+    public sealed class LeftRightBracket : Bracket
     {
         BracketSign bracketSign2;
 

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Editor
 {
-    public class TextRemoveAction : EquationAction
+    public sealed class TextRemoveAction : EquationAction
     {
         public int Index { get; set; }
         public string Text { get; set; }

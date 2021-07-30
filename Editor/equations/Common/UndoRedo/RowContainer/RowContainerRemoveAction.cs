@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Editor
 {   
-    public class RowContainerRemoveAction : RowRemoveAction
+    public sealed class RowContainerRemoveAction : RowRemoveAction
     {
         public EquationRow HeadEquationRow { get; set; }
         public EquationRow TailEquationRow { get; set; }

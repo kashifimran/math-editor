@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace Editor
-{   
+{
     public class RowRemoveAction : EquationAction
     {
         public EquationBase ActiveEquation { get; set; }

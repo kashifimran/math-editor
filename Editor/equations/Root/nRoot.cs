@@ -5,7 +5,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class nRoot : EquationContainer
+    public sealed class nRoot : EquationContainer
     {
         protected RowContainer insideEquation = null;
         RowContainer nthRootEquation = null;

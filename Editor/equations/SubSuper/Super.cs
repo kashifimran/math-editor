@@ -2,7 +2,7 @@
 
 namespace Editor
 {
-    public class Super : SubSuperBase
+    public sealed class Super : SubSuperBase
     {
         RowContainer rowContainer;       
 

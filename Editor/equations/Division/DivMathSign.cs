@@ -3,7 +3,7 @@ using System.Windows.Media;
 
 namespace Editor
 {
-    public class DivMathSign: EquationBase
+    public sealed class DivMathSign: EquationBase
     {
         public bool IsInverted { get; set; }
 

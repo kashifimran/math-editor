@@ -11,7 +11,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class EquationRoot : EquationContainer
+    public sealed class EquationRoot : EquationContainer
     {
         Caret vCaret;
         Caret hCaret;

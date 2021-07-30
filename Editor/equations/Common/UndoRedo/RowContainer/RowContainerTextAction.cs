@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Editor
 {   
-    public class RowContainerTextAction : EquationAction
+    public sealed class RowContainerTextAction : EquationAction
     {        
         public int SelectionStartIndex { get; set; }
         public int SelectedItems { get; set; }

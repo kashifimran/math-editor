@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class RightBracket : Bracket
+    public sealed class RightBracket : Bracket
     {
         public RightBracket(EquationContainer parent, BracketSignType bracketType)
             : base(parent)

@@ -253,7 +253,7 @@ namespace Editor
         }
     }
 
-    public class UnicodeListItem
+    public sealed class UnicodeListItem
     {        
         public int CodePoint { get; set; }
         public string UnicodeText { get; set; }

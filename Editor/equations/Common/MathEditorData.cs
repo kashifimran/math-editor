@@ -3,7 +3,7 @@
 namespace Editor
 {
     [Serializable]
-    public class MathEditorData
+    public sealed class MathEditorData
     {   
         public string XmlString { get; set; }
     }

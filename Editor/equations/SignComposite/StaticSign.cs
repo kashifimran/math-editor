@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class StaticSign : StaticText
+    public sealed class StaticSign : StaticText
     {
         bool integralSignItalic = false;
         public SignCompositeSymbol Symbol { get; set; }

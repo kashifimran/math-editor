@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Editor
 {   
-    public class UndoEventArgs : EventArgs
+    public sealed class UndoEventArgs : EventArgs
     {
         public bool ActionPossible { get; set; }
         public UndoEventArgs(bool actionPossible)

@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class DivMathInverted : DivMath
+    public sealed class DivMathInverted : DivMath
     {
         public DivMathInverted(EquationContainer parent)
             : base(parent)

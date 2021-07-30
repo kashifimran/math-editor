@@ -6,7 +6,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class DoubleArrowBarBracket : EquationContainer
+    public sealed class DoubleArrowBarBracket : EquationContainer
     {
         RowContainer leftEquation = null;
         RowContainer rightEquation = null;

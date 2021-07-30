@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class TextFormatAction : EquationAction
+    public sealed class TextFormatAction : EquationAction
     {
         public int Index { get; set; }
         public int[] OldFormats { get; set; }

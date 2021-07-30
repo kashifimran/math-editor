@@ -3,7 +3,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class SquareRoot : EquationContainer
+    public sealed class SquareRoot : EquationContainer
     {
         protected RowContainer insideEquation = null;
         protected RadicalSign radicalSign;

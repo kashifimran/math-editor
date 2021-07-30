@@ -1,6 +1,6 @@
 ﻿namespace Editor
 {
-    public class DecorationAction : EquationAction
+    public sealed class DecorationAction : EquationAction
     {
         public CharacterDecorationInfo [] CharacterDecorations { get; set; }
         public bool Added { get; set; }

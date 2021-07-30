@@ -3,7 +3,7 @@ using System.Windows.Media;
 
 namespace Editor
 {
-    public class DivTriangleSign : EquationBase
+    public sealed class DivTriangleSign : EquationBase
     {
         public DivTriangleSign(EquationContainer parent)
             : base(parent)

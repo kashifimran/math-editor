@@ -3,7 +3,7 @@ using System.Windows.Media;
 
 namespace Editor
 {
-    public class RadicalSign : EquationBase
+    public sealed class RadicalSign : EquationBase
     {
         static double widthFactor = .9;
         public RadicalSign(EquationContainer parent)

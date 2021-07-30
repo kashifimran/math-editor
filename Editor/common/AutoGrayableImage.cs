@@ -6,7 +6,7 @@ using System.Windows.Media.Imaging;
 
 namespace Editor
 {
-    public class AutoGreyableImage : Image
+    public sealed class AutoGreyableImage : Image
     {
         static AutoGreyableImage()
         {

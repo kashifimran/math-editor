@@ -2,7 +2,7 @@
 
 namespace Editor
 {
-    public class CommandDetails
+    public sealed class CommandDetails
     {
         public Image Image { get; set; }
         public string UnicodeString { get; set; }

@@ -3,7 +3,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class Decorated : EquationContainer
+    public sealed class Decorated : EquationContainer
     {
         RowContainer rowContainer;
         DecorationDrawing decoration;

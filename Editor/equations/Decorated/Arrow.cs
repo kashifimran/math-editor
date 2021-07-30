@@ -6,7 +6,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class Arrow : EquationContainer
+    public sealed class Arrow : EquationContainer
     {
         RowContainer rowContainer1;
         RowContainer rowContainer2;

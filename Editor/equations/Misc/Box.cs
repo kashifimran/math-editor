@@ -4,7 +4,7 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public class Box : EquationContainer
+    public sealed class Box : EquationContainer
     {
         BoxType boxType;
         RowContainer insideEq = null;
