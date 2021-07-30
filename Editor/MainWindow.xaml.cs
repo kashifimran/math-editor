@@ -23,7 +23,7 @@ namespace Editor
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window, System.Windows.Forms.IWin32Window, INotifyPropertyChanged
+    public partial class MainWindow : Window, INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged = (x, y) => { };
         string version = Assembly.GetEntryAssembly().GetName().Version.ToString();
@@ -157,7 +157,7 @@ namespace Editor
                                             "New version available",
                                             MessageBoxButton.YesNo) == MessageBoxResult.Yes)
                         {
-                            BrowserHelper.Open("http://www.mathiversity.com/Downloads");
+                            BrowserHelper.Open("https://www.mathiversity.com/downloads");
                         }
                         break;
                     }
@@ -174,14 +174,14 @@ namespace Editor
         {
             if (commandDetails.CommandType == CommandType.CustomMatrix)
             {
-                MatrixInputForm inputForm = new MatrixInputForm(((int[])commandDetails.CommandParam)[0], ((int[])commandDetails.CommandParam)[1]);
+                var inputForm = new MatrixInputWindow(((int[])commandDetails.CommandParam)[0], ((int[])commandDetails.CommandParam)[1]);
                 inputForm.ProcessRequest += (x, y) =>
                 {
                     CommandDetails newCommand = new CommandDetails { CommandType = CommandType.Matrix };
                     newCommand.CommandParam = new int[] { x, y };
                     editor.HandleUserCommand(newCommand);
                 };
-                inputForm.ShowDialog(this);
+                _ = inputForm.ShowDialog();
             }
             else
             {
@@ -455,7 +455,7 @@ namespace Editor
 
         private void contentsMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            BrowserHelper.Open("http://mathiversity.com/MathEditor/Documentation");
+            BrowserHelper.Open("https://www.mathiversity.com/math-editor/documentation");
         }
 
         private void aboutMenuItem_Click(object sender, RoutedEventArgs e)

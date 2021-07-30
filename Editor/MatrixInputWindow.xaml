@@ -1,0 +1,45 @@
+﻿<Window x:Class="Editor.MatrixInputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Editor"
+        mc:Ignorable="d"
+        Title="MatrixInputWindow" Height="136" Width="260">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120" />
+            <ColumnDefinition Width="120" />
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" 
+               HorizontalAlignment="Right" VerticalAlignment="Center"
+               Content="{x:Static local:Resources.Rows}" Target="{Binding ElementName=rowsUpDown}" Margin="4" />
+        <TextBox x:Name="rowsUpDown" Grid.Row="0" Grid.Column="1" 
+                 ToolTip="{x:Static local:Resources.Rows}"
+                 HorizontalAlignment="Right" VerticalAlignment="Center"
+                 Width="112" HorizontalContentAlignment="Right"
+                 Text="4" Margin="4" />
+
+        <Label Grid.Row="1" Grid.Column="0" 
+               HorizontalAlignment="Right" VerticalAlignment="Center"
+               Content="{x:Static local:Resources.Columns}" Target="{Binding ElementName=columnsUpDown}" Margin="4" />
+        <TextBox x:Name="columnsUpDown" Grid.Row="1" Grid.Column="1" 
+                 HorizontalAlignment="Right" VerticalAlignment="Center"
+                 ToolTip="{x:Static local:Resources.Columns}"
+                 Width="112" HorizontalContentAlignment="Right"
+                 Text="4" Margin="4" />
+
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal">
+            <Button Content="{x:Static local:Resources.Cancel}" Margin="4" Width="112" IsCancel="True"
+                    Click="cancelButton_Click"/>
+            <Button Content="{x:Static local:Resources.Ok}" Margin="4" Width="112" IsDefault="True"
+                    Click="okButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
