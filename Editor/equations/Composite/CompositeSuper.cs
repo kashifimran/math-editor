@@ -1,10 +1,7 @@
-﻿using System;
-using System.Text;
-using System.Windows.Media;
-using System.Xml.Linq;
-using System.Linq;
+﻿using System.Linq;
 using System.Windows;
 using System.Windows.Input;
+using System.Xml.Linq;
 
 namespace Editor
 {

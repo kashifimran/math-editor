@@ -1,14 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
+using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows;
-using System.Globalization;
-using System.Xml.Linq;
 using System.Windows.Media.Imaging;
-using System.ComponentModel;
+using System.Xml.Linq;
 
 namespace Editor
 {

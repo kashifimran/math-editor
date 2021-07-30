@@ -1,17 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Windows;
-using System.Windows.Media;
-using System.Windows.Input;
-using System.Windows.Media.Imaging;
-using System.Windows.Controls;
 using System.IO;
-using System.Xml.Linq;
-using System.Threading;
-using System.Diagnostics;
+using System.Linq;
 using System.Reflection;
+using System.Threading;
+using System.Windows;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Xml.Linq;
 
 namespace Editor
 {

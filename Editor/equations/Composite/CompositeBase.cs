@@ -1,12 +1,4 @@
-﻿using System;
-using System.Text;
-using System.Windows.Media;
-using System.Xml.Linq;
-using System.Linq;
-using System.Windows.Input;
-using System.Windows;
-
-namespace Editor
+﻿namespace Editor
 {
     public abstract class CompositeBase : EquationContainer
     {
