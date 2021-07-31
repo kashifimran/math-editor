@@ -17,28 +17,33 @@ namespace Editor
         System.Threading.Timer timer;
         int blinkPeriod = 600;
 
-        bool _disposed = false;
+        #region IDisposable
+        private bool _isDisposed = false;
+
+        ~EditorControl()
+        {
+            Dispose(false);
+        }
+
         public void Dispose()
         {
             Dispose(true);
             GC.SuppressFinalize(this);
         }
+
         protected virtual void Dispose(bool disposing)
         {
-            if (!_disposed)
+            if (!_isDisposed)
             {
-                if (disposing)
-                {
-                    timer.Dispose();
-                }
-                // Indicate that the instance has been disposed.
-                _disposed = true;
+                vCaret.Dispose();
+                hCaret.Dispose();
+                timer.Dispose();
+                _isDisposed = true;
             }
         }
+        #endregion
 
         public event EventHandler ZoomChanged = (x, y) => { };
-
-        bool showOverbar = true;
 
         public bool Dirty { get; set; }
         
@@ -63,7 +68,18 @@ namespace Editor
             equationRoot = new EquationRoot(vCaret, hCaret);
             equationRoot.FontSize = fontSize;
             timer = new System.Threading.Timer(blinkCaret, null, blinkPeriod, blinkPeriod);
+
+            // ensure timer and carets are disposed when the window is closed.
+            Loaded += OnControlLoaded;
         }
+
+        private void OnControlLoaded(object sender, RoutedEventArgs e)
+        {
+            var window = Window.GetWindow(this);
+            window.Closing += OnWindowClosing;
+        }
+
+        private void OnWindowClosing(object sender, global::System.ComponentModel.CancelEventArgs e) => Dispose();
 
         public void SetFontSizePercentage(int percentage)
         {            
@@ -74,7 +90,6 @@ namespace Editor
 
         public void ShowOverbar(bool show)
         {
-            showOverbar = show;
             if (!show)
             {
                 hCaret.Visibility = System.Windows.Visibility.Hidden;

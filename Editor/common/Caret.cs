@@ -5,7 +5,7 @@ using System.Windows.Media;
 
 namespace Editor
 {
-    public sealed class Caret : FrameworkElement
+    public sealed class Caret : FrameworkElement, IDisposable
     {
         private Point location;
         public double CaretLength { get; set; }
@@ -50,7 +50,10 @@ namespace Editor
 
         public void ToggleVisibility()
         {
-            Dispatcher.Invoke(new Action(() => { Visible = !Visible; }));
+            if (!_isDisposed)
+            {
+                Dispatcher.Invoke(new Action(() => { Visible = !Visible; }));
+            }
         }
 
         bool Visible
@@ -116,5 +119,25 @@ namespace Editor
         {
             get { return location.Y + CaretLength; }
         }
+
+        #region IDisposable
+        private bool _isDisposed = false;
+
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(true);
+        }
+
+        ~Caret()
+        {
+            Dispose(false);
+        }
+
+        private void Dispose(bool disposing)
+        {
+            _isDisposed = true;
+        }
+        #endregion
     }
 }
