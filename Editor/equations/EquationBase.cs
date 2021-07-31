@@ -7,23 +7,9 @@ using System.Xml.Linq;
 
 namespace Editor
 {
-    public abstract class EquationBase
+    public abstract class EquationBase : EquationBox
     {
-        //do not use this.. just for debugging
-        int IndexInChildrenOfParent
-        {
-            get
-            {
-                return ParentEquation.GetIndex(this);
-            }
-        }
-        
         protected static TextManager textManager = new TextManager();
-        static Thickness ZeroMargin = new Thickness();
-        public virtual Thickness Margin
-        {
-            get { return ZeroMargin; } 
-        }
         
         static protected double lineFactor = 0.06;
         public virtual bool ApplySymbolGap { get; set; }
@@ -160,94 +146,6 @@ namespace Editor
             {
                 fontSize = Math.Min(1000, Math.Max(value * fontFactor, 4));
             }
-        }
-
-        public virtual double RefX
-        {
-            get { return width / 2; }
-        }
-
-        public virtual double RefY
-        {
-            get { return height / 2; }
-        }        
-
-        public double RefYReverse
-        {
-            get { return height - RefY; }
-        }
-
-        public virtual double Width
-        {
-            get { return width; }
-            set
-            {
-                width = value;
-            }
-        }
-
-        public virtual double Height
-        {
-            get { return height; }
-            set
-            {
-                height = value > 0 ? value : 0;
-            }
-        }
-
-        public Point Location
-        {
-            get { return location; }
-            set
-            {
-                Left = value.X;
-                Top = value.Y;
-            }
-        }
-
-        public virtual double Left
-        {
-            get { return location.X; }
-            set { location.X = value; }
-        }
-        public virtual double Top
-        {
-            get { return location.Y; }
-            set { location.Y = value; }
-        }
-
-        public double MidX
-        {
-            get { return location.X + RefX; }
-            set { Left = value - RefX; }
-        }
-
-        public double MidY
-        {
-            get { return location.Y + RefY; }
-            set { Top = value - RefY; }
-        }
-
-        public virtual double Right
-        {
-            get { return location.X + width; }
-            set { Left = value - width; }
-        }
-
-        public virtual double Bottom
-        {
-            get { return location.Y + height; }
-            set { Top = value - height; }
-        }
-
-        public Size Size
-        {
-            get { return new Size(width, height); }
-        }
-
-        public Rect Bounds
-        {
-            get { return new Rect(location, Size); }
         }
     }
 }
