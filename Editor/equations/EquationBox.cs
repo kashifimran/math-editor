@@ -1,11 +1,15 @@
-﻿using System.Windows;
+﻿using JetBrains.Annotations;
+using PropertyChanged;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
+using System.Windows;
 
 namespace Editor
 {
     /// <summary>
     /// Represents the coordinates of the box that encapsulates an equation
     /// </summary>
-    public abstract class EquationBox
+    public abstract class EquationBox : INotifyPropertyChanged
     {
         private static Thickness ZeroMargin = new(0d);
         public virtual Thickness Margin => ZeroMargin;
@@ -24,58 +28,71 @@ namespace Editor
             set => height = value > 0d ? value : 0d;
         }
 
-        private Point location = new(0d, 0d);
-        public Point Location
-        {
-            get => location;
-            set
-            {
-                Left = value.X;
-                Top = value.Y;
-            }
-        }
+        public Point Location { get; set; } = new(0d, 0d);
 
+        [DependsOn(nameof(Location))]
         public virtual double Left
         {
-            get => location.X;
-            set => location.X = value;
+            get => Location.X;
+            set => Location = new Point(value, Location.Y);
         }
 
+        [DependsOn(nameof(Location))]
         public virtual double Top
         {
-            get => location.Y;
-            set => location.Y = value;
+            get => Location.Y;
+            set => Location = new Point(Location.X, value);
         }
 
-        public virtual double RefX => width / 2d;
-        public virtual double RefY => height / 2d;
-        public double RefYReverse => height - RefY;
+        [DependsOn(nameof(Width))]
+        public virtual double RefX => Width / 2d;
 
+        [DependsOn(nameof(Height))]
+        public virtual double RefY => Height / 2d;
+
+        [DependsOn(nameof(Height), nameof(RefY))]
+        public double RefYReverse => Height - RefY;
+
+        [DependsOn(nameof(Location), nameof(RefX))]
         public double MidX
         {
-            get => location.X + RefX;
+            get => Location.X + RefX;
             set => Left = value - RefX;
         }
 
+        [DependsOn(nameof(Location), nameof(RefY))]
         public double MidY
         {
-            get => location.Y + RefY;
+            get => Location.Y + RefY;
             set => Top = value - RefY;
         }
 
+        [DependsOn(nameof(Location), nameof(Width))]
         public virtual double Right
         {
-            get => location.X + width;
+            get => Location.X + width;
             set => Left = value - width;
         }
 
+        [DependsOn(nameof(Location), nameof(Height))]
         public virtual double Bottom
         {
-            get => location.Y + height;
-            set => Top = value - height;
+            get => Location.Y + Height;
+            set => Top = value - Height;
         }
 
-        public Size Size => new(width, height);
-        public Rect Bounds => new(location, Size);
+        [DependsOn(nameof(Width), nameof(Height))]
+        public Size Size => new(Width, Height);
+
+        [DependsOn(nameof(Location), nameof(Size))]
+        public Rect Bounds => new(Location, Size);
+
+        #region INotifyPropertyChanged
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        [NotifyPropertyChangedInvocator]
+        protected void NotifyPropertyChanged([CallerMemberName] string propertyName = "") => 
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        #endregion
     }
 }
