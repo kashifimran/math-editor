@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media;
@@ -8,16 +9,15 @@ namespace Editor
     public sealed class Caret : FrameworkElement, IDisposable
     {
         private Point location;
-        public double CaretLength { get; set; }
+        public double CaretLength { get; set; } = 18d;
 
-        private readonly bool isHorizontal = false;
+        private readonly bool _isHorizontal = false;
 
         public static readonly DependencyProperty VisibleProperty = DependencyProperty.Register("Visible", typeof(bool), typeof(Caret), new FrameworkPropertyMetadata(false /* defaultValue */, FrameworkPropertyMetadataOptions.AffectsRender));
 
         public Caret(bool isHorizontal)
         {
-            this.isHorizontal = isHorizontal;
-            CaretLength = 18;
+            _isHorizontal = isHorizontal;
             Visible = true;
         }
 
@@ -25,28 +25,15 @@ namespace Editor
         {
             if (Visible)
             {
-                dc.DrawLine(PenManager.GetPen(Math.Max(1, EditorControl.RootFontSize * .8 / EditorControl.rootFontBaseSize)), location, OtherPoint);
+                dc.DrawLine(PenManager.GetPen(Math.Max(1, EditorControl.RootFontSize * .8 / EditorControl.rootFontBaseSize)), Location, OtherPoint);
             }
-            else if (isHorizontal)
+            else if (_isHorizontal)
             {
-                dc.DrawLine(PenManager.GetWhitePen(Math.Max(1, EditorControl.RootFontSize *.8 / EditorControl.rootFontBaseSize)), location, OtherPoint);
+                dc.DrawLine(PenManager.GetWhitePen(Math.Max(1, EditorControl.RootFontSize *.8 / EditorControl.rootFontBaseSize)), Location, OtherPoint);
             }
         }
 
-        private Point OtherPoint
-        {
-            get
-            {
-                if (isHorizontal)
-                {
-                    return new Point(Left + CaretLength, Top);
-                }
-                else
-                {
-                    return new Point(Left, VerticalCaretBottom);
-                }
-            }
-        }
+        private Point OtherPoint => _isHorizontal ? new Point(Left + CaretLength, Top) : new Point(Left, VerticalCaretBottom);
 
         public void ToggleVisibility()
         {
@@ -56,12 +43,9 @@ namespace Editor
             }
         }
 
-        bool Visible
+        private bool Visible
         {
-            get
-            {
-                return (bool)GetValue(VisibleProperty);
-            }
+            get => (bool)GetValue(VisibleProperty);
             set
             {
                 try
@@ -77,48 +61,23 @@ namespace Editor
 
         public Point Location
         {
-            get { return location; }
-            set
-            {
-                location.X = Math.Floor(value.X) + .5;
-                location.Y = Math.Floor(value.Y) + .5;
-                if (Visible)
-                {
-                    Visible = false;
-                }
-            }
+            get => location;
+            set => location = new Point(Math.Floor(value.X) + .5, Math.Floor(value.Y) + .5);
         }
 
         public double Left
         {
-            get { return location.X; }
-            set
-            {
-                location.X = Math.Floor(value) + .5;
-                if (Visible)
-                {
-                    Visible = false;
-                }
-            }
+            get => location.X;
+            set => location = new Point(Math.Floor(value) + .5, location.Y);
         }
 
         public double Top
         {
-            get { return location.Y; }
-            set
-            {
-                location.Y = Math.Floor(value) + .5;
-                if (Visible)
-                {
-                    Visible = false;
-                }
-            }
+            get => location.Y;
+            set => location = new Point(location.X, Math.Floor(value) + .5);
         }
 
-        public double VerticalCaretBottom
-        {
-            get { return location.Y + CaretLength; }
-        }
+        public double VerticalCaretBottom => location.Y + CaretLength;
 
         #region IDisposable
         private bool _isDisposed = false;
