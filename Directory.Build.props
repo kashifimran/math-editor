@@ -1,0 +1,18 @@
+<Project>
+  <PropertyGroup>
+    <Company>Math Editor Team</Company>
+    <Product>Math Editor</Product>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <Version>2.0.0.0</Version>
+    <Copyright>Copyright ©  2012-2021</Copyright>
+    <Configurations>Debug;Release</Configurations>
+    <LangVersion>9.0</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <SignAssembly>false</SignAssembly>
+    <!--AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile-->
+    <!--DelaySign>false</DelaySign-->
+    <Nullable>enable</Nullable>
+    <SuppressNETCoreSdkPreviewMessage>true</SuppressNETCoreSdkPreviewMessage>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+</Project>
