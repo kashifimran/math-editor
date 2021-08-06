@@ -2,36 +2,32 @@
 
 namespace Editor.MathML3
 {
-    /// <summary>
-    /// Blank Space
-    /// </summary>
-    public sealed class Space : IMathMLElement
+    public abstract class TokenBase
     {
-        public XElement ToXElement()
+        protected XElement AddTokenAttributes(XElement element)
         {
-            var element = new XElement(Ns.MathML + "mspace");
-
             element.AddMathMLAttribute("class", Class);
             element.AddMathMLAttribute("id", Id);
             element.AddMathMLAttribute("style", Style);
+            element.AddMathMLAttribute("dir", Dir);
             element.AddMathMLAttribute("displaystyle", DisplayStyle);
+            element.AddMathMLAttribute("href", Href);
             element.AddMathMLAttribute("mathbackground", MathBackground);
-
-            element.AddMathMLAttribute("depth", Depth);
-            element.AddMathMLAttribute("height", Height);
-            element.AddMathMLAttribute("width", Width);
-
+            element.AddMathMLAttribute("mathcolor", MathColor);
+            element.AddMathMLAttribute("mathsize", MathSize);
+            element.AddMathMLAttribute("mathvariant", MathVariant);
             return element;
         }
 
         public string Class { get; set; } = string.Empty;
         public string Id { get; set; } = string.Empty;
         public string Style { get; set; } = string.Empty;
+        public string Dir { get; set; } = "ltr";
         public string DisplayStyle { get; set; } = string.Empty;
+        public string Href { get; set; } = string.Empty;
         public string MathBackground { get; set; } = string.Empty;
-        
-        public string Depth { get; set; } = string.Empty;
-        public string Height { get; set; } = string.Empty;
-        public string Width { get; set; } = string.Empty;
+        public string MathColor { get; set; } = string.Empty;
+        public string MathSize { get; set; } = string.Empty;
+        public string MathVariant { get; set; } = "normal";
     }
 }

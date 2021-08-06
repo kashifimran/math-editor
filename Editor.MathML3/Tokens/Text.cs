@@ -5,11 +5,17 @@ namespace Editor.MathML3.Tokens
     /// <summary>
     /// Arbitrary text without notational meaning
     /// </summary>
-    public sealed class Text : IMathMLElement
+    public sealed class Text : TokenBase, IMathMLElement
     {
         public XElement ToXElement()
         {
-            return new XElement(Ns.MathML + "mtext");
+            var element = new XElement(Ns.MathML + "mtext", Content);
+
+            AddTokenAttributes(element);
+
+            return element;
         }
+
+        public string Content { get; set; } = string.Empty;
     }
 }

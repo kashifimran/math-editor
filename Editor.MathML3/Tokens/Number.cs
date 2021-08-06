@@ -5,11 +5,17 @@ namespace Editor.MathML3
     /// <summary>
     /// Number
     /// </summary>
-    public sealed class Number : IMathMLElement
+    public sealed class Number : TokenBase, IMathMLElement
     {
         public XElement ToXElement()
         {
-            return new XElement(Ns.MathML + "mn");
+            var element = new XElement(Ns.MathML + "mn", Content);
+
+            AddTokenAttributes(element);
+
+            return element;
         }
+
+        public string Content { get; set; } = string.Empty;
     }
 }
