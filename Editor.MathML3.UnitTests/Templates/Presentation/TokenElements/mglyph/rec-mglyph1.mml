@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>
+    <mglyph fontfamily="my-braid-font" index="2" alt="23braid"></mglyph> 
+  </mi> 
+  <mspace width="10px"></mspace> 
+  <mn>
+    <mglyph fontfamily="Curlz MT" index="65" alt="script 'A'"></mglyph> 
+  </mn> 
+  <mspace width="10px"></mspace> 
+  <mn>
+    <mglyph fontfamily="Arial" index="97" alt="lowercase 'a'"></mglyph> 
+  </mn> 
+</math>

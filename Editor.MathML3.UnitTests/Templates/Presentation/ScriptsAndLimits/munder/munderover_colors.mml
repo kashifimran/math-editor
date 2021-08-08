@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <munderover>
+      <mi>X</mi>
+      <mi>a</mi>
+      <mi>b</mi>
+    </munderover>
+    <mo>,</mo> 
+    <munderover>
+      <mi>X</mi>
+      <mi mathcolor="#FF0000">a</mi>
+      <mi mathcolor="#FF0000">b</mi>
+    </munderover>
+    <mo>,</mo> 
+    <munderover mathcolor="#FF0000">
+      <mi>X</mi>
+      <mi>a</mi>
+      <mi>b</mi>
+    </munderover>
+    <mo>,</mo> 
+    <munderover>
+      <mi>X</mi>
+      <mi mathbackground="#80FF80">a</mi>
+      <mi mathbackground="#80FF80">b</mi>
+    </munderover>
+    <mo>,</mo> 
+    <munderover mathbackground="#80FF80">
+      <mi>X</mi>
+      <mi>a</mi>
+      <mi>b</mi>
+    </munderover> 
+  </mrow> </math>

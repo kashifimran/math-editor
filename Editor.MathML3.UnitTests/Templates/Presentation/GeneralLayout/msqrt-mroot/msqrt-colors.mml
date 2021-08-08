@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <msqrt>
+      <mi>a</mi>
+    </msqrt>
+    <mo>,</mo> 
+    <msqrt>
+      <mi mathcolor="#FF0000">a</mi>
+    </msqrt>
+    <mo>,</mo> 
+    <msqrt mathcolor="#FF0000">
+      <mi>a</mi>
+    </msqrt>
+    <mo>,</mo> 
+    <msqrt mathbackground="#80FF80">
+      <mi>a</mi>
+    </msqrt>
+    <mo>,</mo> 
+    <msqrt mathbackground="#80FF80">
+      <mi mathcolor="#FF0000">a</mi>
+    </msqrt>
+    <mo>,</mo> 
+    <msqrt mathcolor="#FF0000" mathbackground="#80FF80">
+      <mi>a</mi>
+    </msqrt>
+    <mo>,</mo> 
+    <msqrt>
+      <mi mathbackground="#80FF80">a</mi>
+    </msqrt> 
+  </mrow> </math>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable displaystyle="true">
+    <mtr rowalign="center">
+      <mtd>
+        <mi>
+          <mglyph src="pencil-e.png" alt="pencil to center of"></mglyph>
+        </mi>
+      </mtd> 
+      <mtd>
+        <mo>&#x222B;</mo>
+      </mtd> 
+    </mtr> 
+  </mtable> </math>

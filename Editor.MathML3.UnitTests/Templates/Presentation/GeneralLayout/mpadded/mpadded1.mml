@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mpadded width="0">
+      <mi>C</mi> 
+    </mpadded> 
+    <mspace width="0.2em"></mspace> 
+    <mtext>|</mtext> 
+  </mrow> </math>

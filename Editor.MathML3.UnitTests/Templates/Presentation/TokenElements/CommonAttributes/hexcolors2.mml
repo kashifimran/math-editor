@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mi color="#f00">A</mi> 
+          <mo>+</mo> 
+          <mi color="#0000ff">A</mi> 
+        </mrow> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mrow>
+          <mn mathcolor="#f00">1</mn> 
+          <mo>+</mo> 
+          <mn mathcolor="#0000ff">1</mn> 
+        </mrow> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mrow>
+          <mn mathbackground="#f00">1</mn> 
+          <mo>+</mo> 
+          <mn mathbackground="#0000ff">1</mn> 
+        </mrow> 
+      </mtd> 
+    </mtr> 
+  </mtable> </math>

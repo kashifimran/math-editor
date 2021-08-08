@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <munder accentunder="true">
+      <mrow>
+        <mi>x</mi> 
+        <mo>+</mo> 
+        <mi>y</mi> 
+        <mo>+</mo> 
+        <mi>z</mi> 
+      </mrow> 
+      <mo stretchy="true"> &#x23DF;</mo> 
+    </munder> 
+    <mtext> &#x2003;vs &#x2003;</mtext> 
+    <munder accentunder="false">
+      <mrow>
+        <mi>x</mi> 
+        <mo>+</mo> 
+        <mi>y</mi> 
+        <mo>+</mo> 
+        <mi>z</mi> 
+      </mrow> 
+      <mo stretchy="true"> &#x23DF;</mo> 
+    </munder> 
+  </mrow> </math>

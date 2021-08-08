@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mmultiscripts>
+      <mi>F</mi> 
+      <mn>1</mn> 
+      <none></none> 
+      <mprescripts></mprescripts> 
+      <mn>0</mn> 
+      <none></none> 
+    </mmultiscripts> 
+    <mo> &#x2061;</mo> 
+    <mrow>
+      <mo>(</mo> 
+      <mrow>
+        <mo>;</mo> 
+        <mi>a</mi> 
+        <mo>;</mo> 
+        <mi>z</mi> 
+      </mrow> 
+      <mo>)</mo> 
+    </mrow> 
+  </mrow> </math>

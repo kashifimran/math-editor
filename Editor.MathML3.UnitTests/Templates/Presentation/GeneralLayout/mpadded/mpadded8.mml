@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn> 
+    <mn>2</mn> 
+  </mfrac> 
+  <mo>+</mo> 
+  <mstyle mathbackground="yellow">
+    <mpadded lspace="+8pt" voffset="+8pt">
+      <mi>X</mi> 
+      <mo>+</mo> 
+      <mi>Y</mi> 
+    </mpadded> 
+  </mstyle> 
+  <mo>=</mo> 
+  <mi>a</mi> 
+  <mo>-</mo> 
+  <mi>b</mi> </math>

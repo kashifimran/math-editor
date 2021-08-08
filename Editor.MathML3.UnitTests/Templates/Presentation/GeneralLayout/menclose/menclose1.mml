@@ -1,0 +1,228 @@
+﻿<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable columnalign="right left">
+    <mtr>
+      <mtd>
+        <mtext> default </mtext>
+      </mtd>
+      <mtd>
+        <menclose>
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> longdiv </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="longdiv">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> actuarial </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="actuarial ">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> radical </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="radical">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> box </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="box">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> roundedbox </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="roundedbox">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> circle </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="circle">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> left </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="left">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> right </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="right">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> top </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="top">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> bottom </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="bottom">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> updiagonalstrike </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="updiagonalstrike">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> downdiagonalstrike </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="downdiagonalstrike">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> verticalstrike </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="verticalstrike">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> horizontalstrike </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="horizontalstrike">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> madruwb</mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="madruwb">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> cross out </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="updiagonalstrike downdiagonalstrike">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> all sides and all strikes </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="left right top bottom updiagonalstrike downdiagonalstrike verticalstrike horizontalstrike">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> nested roundedbox </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="roundedbox">
+          <menclose notation="roundedbox">
+            <mi> abcdefg </mi>
+          </menclose>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> nested circle </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="circle">
+          <menclose notation="circle">
+            <mi> abcdefg </mi>
+          </menclose>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> empty attr </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext> bad attr </mtext>
+      </mtd>
+      <mtd>
+        <menclose notation="triangle">
+          <mi> abcdefg </mi>
+        </menclose>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>H</mi> 
+  <mstyle mathbackground="yellow">
+    <mpadded voffset="+8pt">
+      <mi>x</mi>
+      <mo>+</mo>
+      <mi>b</mi> 
+    </mpadded> 
+  </mstyle> 
+  <mfrac>
+    <mn>1</mn> 
+    <mn>2</mn> 
+  </mfrac> </math>

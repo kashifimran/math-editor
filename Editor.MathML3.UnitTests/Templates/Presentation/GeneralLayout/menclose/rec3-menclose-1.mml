@@ -1,0 +1,7 @@
+﻿<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <menclose notation="circle box">
+    <mi> x </mi>
+    <mo> + </mo>
+    <mi> y </mi>
+  </menclose>
+</math>

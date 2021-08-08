@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mi>a</mi>
+      <mo>+</mo>
+      <mi>b</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>,</mo> 
+    <mrow>
+      <mo>(</mo>
+      <mi mathcolor="#FF0000">a</mi>
+      <mo>+</mo>
+      <mi mathcolor="#FF0000">b</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>,</mo> 
+    <mrow mathcolor="#FF0000">
+      <mo>(</mo>
+      <mi>a</mi>
+      <mo>+</mo>
+      <mi>b</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>,</mo> 
+    <mrow>
+      <mo>(</mo>
+      <mi mathbackground="#80FF80">a</mi>
+      <mo>+</mo>
+      <mi mathbackground="#80FF80">b</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>,</mo> 
+    <mrow mathbackground="#80FF80">
+      <mo>(</mo>
+      <mi>a</mi>
+      <mo>+</mo>
+      <mi>b</mi>
+      <mo>)</mo>
+    </mrow> 
+  </mrow> </math>

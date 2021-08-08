@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <mi>a</mi> 
+    <mo>+</mo> 
+    <mphantom>
+      <mi>a</mi>
+    </mphantom> 
+    <mo>+</mo> 
+    <mi mathbackground="#80FF80">a</mi> 
+    <mo>+</mo> 
+    <mphantom mathbackground="#80FF80">
+      <mi>a</mi>
+    </mphantom> 
+  </mrow> </math>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <mmultiscripts>
+      <mi>X</mi> 
+      <mi>c</mi> 
+      <mi>d</mi> 
+      <mprescripts></mprescripts> 
+      <mi>a</mi> 
+      <mi>b</mi> 
+    </mmultiscripts> 
+    <mo>,</mo> 
+    <mmultiscripts>
+      <mi>X</mi> 
+      <mi mathcolor="#FF0000">c</mi> 
+      <mi mathcolor="#FF0000">d</mi> 
+      <mprescripts></mprescripts> 
+      <mi mathcolor="#FF0000">a</mi> 
+      <mi mathcolor="#FF0000">b</mi> 
+    </mmultiscripts> 
+    <mo>,</mo> 
+    <mmultiscripts mathcolor="#FF0000">
+      <mi>X</mi> 
+      <mi>c</mi> 
+      <mi>d</mi> 
+      <mprescripts></mprescripts> 
+      <mi>a</mi> 
+      <mi>b</mi> 
+    </mmultiscripts> 
+    <mo>,</mo> 
+    <mmultiscripts>
+      <mi>X</mi> 
+      <mi mathbackground="#80FF80">c</mi> 
+      <mi mathbackground="#80FF80">d</mi> 
+      <mprescripts></mprescripts> 
+      <mi mathbackground="#80FF80">a</mi> 
+      <mi mathbackground="#80FF80">b</mi> 
+    </mmultiscripts> 
+    <mo>,</mo> 
+    <mmultiscripts mathbackground="#80FF80">
+      <mi>X</mi> 
+      <mi>c</mi> 
+      <mi>d</mi> 
+      <mprescripts></mprescripts> 
+      <mi>a</mi> 
+      <mi>b</mi> 
+    </mmultiscripts> 
+  </mrow> </math>

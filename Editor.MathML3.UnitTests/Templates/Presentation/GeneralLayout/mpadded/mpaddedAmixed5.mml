@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>A</mi> 
+    <mo>+</mo> 
+    <mfrac>
+      <mpadded lspace="1em" width="1em">
+        <mi>y</mi> 
+      </mpadded> 
+      <mi>A</mi> 
+    </mfrac> 
+    <mo>+</mo> 
+    <mfrac>
+      <mpadded depth="+2ex">
+        <mi>A</mi> 
+      </mpadded> 
+      <mpadded height="2">
+        <mi>A</mi> 
+      </mpadded> 
+    </mfrac> 
+    <mo>+</mo> 
+    <mfrac>
+      <mpadded width="1.6width" lspace=".4width">
+        <mi>A</mi> 
+        <mpadded width="+1em" lspace="+1em">
+          <msqrt>
+            <mn>5</mn> 
+          </msqrt> 
+        </mpadded> 
+      </mpadded> 
+      <mi>A</mi> 
+    </mfrac> 
+    <mo>+</mo> 
+    <mpadded width="1em">
+      <msqrt>
+        <mn>5</mn> 
+      </msqrt> 
+    </mpadded> 
+    <mi>A</mi> 
+  </mrow> </math>

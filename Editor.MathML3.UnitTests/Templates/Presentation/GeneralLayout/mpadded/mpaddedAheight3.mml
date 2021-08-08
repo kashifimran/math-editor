@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mover>
+      <mi>A</mi> 
+      <mi>x</mi> 
+    </mover> 
+    <mover>
+      <mpadded height="1.5height">
+        <mi>A</mi> 
+      </mpadded> 
+      <mi>x</mi> 
+    </mover> 
+    <mover>
+      <mpadded height="3width">
+        <mi>A</mi> 
+      </mpadded> 
+      <mi>x</mi> 
+    </mover> 
+    <mover>
+      <mpadded height="150%height">
+        <mi>A</mi> 
+      </mpadded> 
+      <mi>x</mi> 
+    </mover> 
+    <mover>
+      <mpadded height="1ex">
+        <mi>A</mi> 
+      </mpadded> 
+      <mi>x</mi> 
+    </mover> 
+    <mover>
+      <mpadded height="10pt">
+        <mi>A</mi> 
+      </mpadded> 
+      <mi>x</mi> 
+    </mover> 
+  </mrow> </math>

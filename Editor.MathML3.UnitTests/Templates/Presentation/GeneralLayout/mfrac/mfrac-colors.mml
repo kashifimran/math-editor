@@ -1,0 +1,53 @@
+﻿<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <mfrac>
+      <mi>a</mi>
+      <mi>b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac>
+      <mi mathcolor="#FF0000">a</mi>
+      <mi mathcolor="#FF0000">b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac mathcolor="#FF0000">
+      <mi>a</mi>
+      <mi>b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac mathcolor="#FF0000">
+      <mi mathcolor="#0000FF">a</mi>
+      <mi mathcolor="#0000FF">b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac mathbackground="#80FF80">
+      <mi>a</mi>
+      <mi>b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac mathbackground="#80FF80">
+      <mi mathcolor="#FF0000">a</mi>
+      <mi mathcolor="#FF0000">b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac mathcolor="#FF0000" mathbackground="#80FF80">
+      <mi>a</mi>
+      <mi>b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac mathcolor="#FF0000" mathbackground="#80FF80">
+      <mi mathcolor="#0000FF">a</mi>
+      <mi mathcolor="#0000FF">b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac>
+      <mi mathbackground="#80FF80">a</mi>
+      <mi mathbackground="#80FF80">b</mi>
+    </mfrac>
+    <mo>,</mo>
+    <mfrac>
+      <mi mathcolor="#FF0000" mathbackground="#80FF80">a</mi>
+      <mi mathcolor="#FF0000" mathbackground="#80FF80">b</mi>
+    </mfrac>
+  </mrow>
+</math>

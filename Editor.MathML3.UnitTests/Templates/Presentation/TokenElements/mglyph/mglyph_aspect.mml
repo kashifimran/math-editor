@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>
+    <mglyph width="2" height="2" src="nist.png" alt="NIST"></mglyph>
+  </mi> 
+  <mo>+</mo> 
+  <mi>
+    <mglyph width="2" src="nist.png" alt="NIST"></mglyph>
+  </mi> 
+  <mo>+</mo> 
+  <mi>
+    <mglyph height="2" src="nist.png" alt="NIST"></mglyph>
+  </mi> </math>

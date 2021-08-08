@@ -1,0 +1,45 @@
+﻿<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <mfenced>
+      <mi>a</mi>
+      <mi>b</mi>
+      <mi>c</mi>
+    </mfenced>
+    <mo>,</mo>
+    <mfenced>
+      <mi mathcolor="#FF0000">a</mi>
+      <mi mathcolor="#FF0000">b</mi>
+      <mi mathcolor="#FF0000">c</mi>
+    </mfenced>
+    <mo>,</mo>
+    <mfenced mathcolor="#FF0000">
+      <mi>a</mi>
+      <mi>b</mi>
+      <mi>c</mi>
+    </mfenced>
+    <mo>,</mo>
+    <mfenced mathbackground="#80FF80">
+      <mi>a</mi>
+      <mi>b</mi>
+      <mi>c</mi>
+    </mfenced>
+    <mo>,</mo>
+    <mfenced mathbackground="#80FF80">
+      <mi mathcolor="#FF0000">a</mi>
+      <mi mathcolor="#FF0000">b</mi>
+      <mi mathcolor="#FF0000">c</mi>
+    </mfenced>
+    <mo>,</mo>
+    <mfenced mathcolor="#FF0000" mathbackground="#80FF80">
+      <mi>a</mi>
+      <mi>b</mi>
+      <mi>c</mi>
+    </mfenced>
+    <mo>,</mo>
+    <mfenced>
+      <mi mathbackground="#80FF80">a</mi>
+      <mi mathbackground="#80FF80">b</mi>
+      <mi mathbackground="#80FF80">c</mi>
+    </mfenced>
+  </mrow>
+</math>

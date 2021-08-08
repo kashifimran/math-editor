@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>x</mi> 
+  <mo>+</mo> 
+  <mi>y</mi> 
+  <mo>+</mo> 
+  <mi>z</mi> 
+  <mo>+</mo> 
+  <mstyle mathbackground="yellow">
+    <mpadded width="-3em">
+      <mi>N</mi> 
+      <mo>+</mo> 
+      <mi>M</mi> 
+    </mpadded> 
+  </mstyle> 
+  <mo>=</mo> 
+  <mi>a</mi> 
+  <mo>+</mo> 
+  <mi>b</mi> 
+  <mo>+</mo> 
+  <mi>c</mi> </math>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn> 
+    <mn>2</mn> 
+  </mfrac> 
+  <mo>+</mo> 
+  <mover>
+    <mpadded height="-10px">
+      <mi>x</mi> 
+      <mo>+</mo> 
+      <mi>y</mi> 
+    </mpadded> 
+    <mo>&#x000AF;</mo> 
+  </mover> 
+  <mo>+</mo> 
+  <mover>
+    <mrow>
+      <mi>x</mi> 
+      <mo>+</mo> 
+      <mi>y</mi> 
+    </mrow> 
+    <mo>&#x000AF;</mo> 
+  </mover> </math>

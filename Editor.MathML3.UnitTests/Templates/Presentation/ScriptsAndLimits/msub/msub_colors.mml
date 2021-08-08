@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <msub>
+      <mi>X</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>,</mo> 
+    <msub>
+      <mi>X</mi>
+      <mi mathcolor="#FF0000">a</mi>
+    </msub>
+    <mo>,</mo> 
+    <msub mathcolor="#FF0000">
+      <mi>X</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>,</mo> 
+    <msub>
+      <mi>X</mi>
+      <mi mathbackground="#80FF80">a</mi>
+    </msub>
+    <mo>,</mo> 
+    <msub mathbackground="#80FF80">
+      <mi>X</mi>
+      <mi>a</mi>
+    </msub> 
+  </mrow> </math>

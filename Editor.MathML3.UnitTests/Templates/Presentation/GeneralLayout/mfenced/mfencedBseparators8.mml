@@ -1,0 +1,16 @@
+﻿<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfenced>
+    <msub>
+      <mi>a</mi>
+      <mn>1</mn>
+    </msub>
+    <msub>
+      <mi>a</mi>
+      <mn>2</mn>
+    </msub>
+    <msub>
+      <mi>a</mi>
+      <mn>3</mn>
+    </msub>
+  </mfenced>
+</math>

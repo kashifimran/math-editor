@@ -1,0 +1,40 @@
+﻿<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable columnspacing="0px" rowspacing="2px">
+    <mtr>
+      <mtd> </mtd>
+      <mtd columnalign="right">
+        <mn>10</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd columnalign="right">
+        <mn>131</mn>
+      </mtd>
+      <mtd columnalign="right">
+        <menclose notation="longdiv">
+          <mn>1413</mn>
+        </menclose>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd> </mtd>
+      <mtd columnalign="right">
+        <mrow>
+          <munder>
+            <mn>131</mn>
+            <mo> &#x0332; </mo>
+          </munder>
+          <mphantom>
+            <mn>3</mn>
+          </mphantom>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd> </mtd>
+      <mtd columnalign="right">
+        <mn>103</mn>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

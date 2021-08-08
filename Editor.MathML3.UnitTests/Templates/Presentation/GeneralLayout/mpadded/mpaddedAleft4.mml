@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>A</mi> 
+    <mpadded lspace=".5height" width="+.5height">
+      <mi>A</mi> 
+    </mpadded> 
+    <mi>A</mi> 
+    <mpadded lspace="3width" width="+3width">
+      <mi>A</mi> 
+    </mpadded> 
+    <mi>A</mi> 
+    <mpadded lspace="50%width" width="+50%width">
+      <mi>A</mi> 
+    </mpadded> 
+    <mi>A</mi> 
+    <mpadded lspace="2ex" width="+2ex">
+      <mi>A</mi> 
+    </mpadded> 
+    <mi>A</mi> 
+    <mpadded lspace="-2pt">
+      <mi>A</mi> 
+    </mpadded> 
+    <mi>A</mi> 
+  </mrow> </math>

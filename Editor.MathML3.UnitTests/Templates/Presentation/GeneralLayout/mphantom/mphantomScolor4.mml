@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>A</mi> 
+    <mstyle color="Red" mathbackground="Green">
+      <mphantom>
+        <mi>A</mi> 
+      </mphantom> 
+    </mstyle> 
+    <mi>A</mi> 
+  </mrow> </math>

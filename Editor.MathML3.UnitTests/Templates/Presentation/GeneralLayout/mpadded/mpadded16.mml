@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn> 
+    <mn>2</mn> 
+  </mfrac> 
+  <mo>+</mo> 
+  <mstyle mathbackground="yellow">
+    <mpadded height="-20pt">
+      <mi>x</mi> 
+      <mo>+</mo> 
+      <mi>y</mi> 
+    </mpadded> 
+  </mstyle> 
+  <mo>+</mo> 
+  <mi>x</mi> </math>
