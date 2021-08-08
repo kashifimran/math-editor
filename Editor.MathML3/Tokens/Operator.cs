@@ -5,9 +5,9 @@ namespace Editor.MathML3
     /// <summary>
     /// Operator
     /// </summary>
-    public sealed class Operator : TokenBase, IMathMLElement
+    public sealed class Operator : TokenBase
     {
-        public XElement ToXElement()
+        public override XElement ToXElement()
         {
             var element = new XElement(Ns.MathML + "mo");
 

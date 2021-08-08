@@ -8,9 +8,9 @@ namespace Editor.MathML3
     /// <remarks>
     /// https://developer.mozilla.org/en-US/docs/Web/MathML/Element/ms
     /// </remarks>
-    public sealed class LiteralString : TokenBase, IMathMLElement
+    public sealed class LiteralString : TokenBase
     {
-        public XElement ToXElement()
+        public override XElement ToXElement()
         {
             var element = new XElement(Ns.MathML + "ms", Content);
 

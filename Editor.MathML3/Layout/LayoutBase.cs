@@ -1,28 +1,28 @@
-﻿using System.Xml.Linq;
+﻿using System.Collections.Generic;
+using System.Xml.Linq;
 
 namespace Editor.MathML3
 {
-    public abstract class TokenBase : ElementBase
+    public abstract class LayoutBase : ElementBase
     {
-        protected XElement AddTokenAttributes(XElement element)
+        protected XElement AddLayoutBaseAttributes(XElement element)
         {
             AddElementAttributes(element);
-            element.AddMathMLAttribute("dir", Dir);
             element.AddMathMLAttribute("displaystyle", DisplayStyle);
             element.AddMathMLAttribute("href", Href);
             element.AddMathMLAttribute("mathbackground", MathBackground);
             element.AddMathMLAttribute("mathcolor", MathColor);
-            element.AddMathMLAttribute("mathsize", MathSize);
-            element.AddMathMLAttribute("mathvariant", MathVariant);
+            foreach (var content in Content)
+            {
+                element.Add(content.ToXElement());
+            }
             return element;
         }
 
-        public string Dir { get; set; } = "ltr";
-        public string DisplayStyle { get; set; } = string.Empty;
+        public string DisplayStyle { get; set; } = "false";
         public string Href { get; set; } = string.Empty;
         public string MathBackground { get; set; } = string.Empty;
         public string MathColor { get; set; } = string.Empty;
-        public string MathSize { get; set; } = string.Empty;
-        public string MathVariant { get; set; } = "normal";
+        public IList<IMathMLElement> Content { get; set; } = new List<IMathMLElement>();
     }
 }

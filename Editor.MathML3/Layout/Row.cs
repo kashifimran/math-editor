@@ -2,11 +2,16 @@
 
 namespace Editor.MathML3
 {
-    public sealed class Row : IMathMLElement
+    public sealed class Row : LayoutBase
     {
-        public XElement ToXElement()
+        public override XElement ToXElement()
         {
-            return new XElement(Ns.MathML + "mrow");
+            var element = new XElement(Ns.MathML + "mrow");
+            AddLayoutBaseAttributes(element);
+            element.AddMathMLAttribute("dir", Dir);
+            return element;
         }
+
+        public string Dir { get; set; } = "ltr";
     }
 }

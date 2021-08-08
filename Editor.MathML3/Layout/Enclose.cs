@@ -5,11 +5,16 @@ namespace Editor.MathML3
     /// <summary>
     /// Enclosed contents
     /// </summary>
-    public sealed class Enclose : IMathMLElement
+    public sealed class Enclose : LayoutBase
     {
-        public XElement ToXElement()
+        public override XElement ToXElement()
         {
-            return new XElement(Ns.MathML + "menclose");
+            var element = new XElement(Ns.MathML + "menclose");
+            AddElementAttributes(element);
+            element.AddMathMLAttribute("notation", Notation);
+            return element;
         }
+
+        public string Notation { get; set; } = string.Empty;
     }
 }

@@ -5,9 +5,9 @@ namespace Editor.MathML3.Tokens
     /// <summary>
     /// Arbitrary text without notational meaning
     /// </summary>
-    public sealed class Text : TokenBase, IMathMLElement
+    public sealed class Text : TokenBase
     {
-        public XElement ToXElement()
+        public override XElement ToXElement()
         {
             var element = new XElement(Ns.MathML + "mtext", Content);
 
