@@ -16,15 +16,23 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Serilog.Sinks.XUnit" />
   </ItemGroup>
 
   <ItemGroup>
     <None Update="Templates\**\*.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="Templates\**\*.mml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Templates\Presentation\GeneralLayout\mfrac\mrow\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Editor.MathML3\Editor.MathML3.csproj" />
   </ItemGroup>
 </Project>

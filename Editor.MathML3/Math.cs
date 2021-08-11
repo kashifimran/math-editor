@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Xml;
 using System.Xml.Linq;
 
 namespace Editor.MathML3
@@ -11,8 +12,14 @@ namespace Editor.MathML3
     {
         public XDocument ToXDocument()
         {
-            var element = new XElement(Ns.MathML + "math");
-
+            var element = new XElement(Ns.MathML + "math",
+                new XAttribute(XNamespace.Xmlns + "m", Ns.MathML),
+                new XAttribute(XNamespace.Xmlns + "xml", Ns.XML),
+                new XAttribute(XNamespace.Xmlns + "rdf", Ns.RDF),
+                new XAttribute(XNamespace.Xmlns + "html", Ns.HTML5),
+                new XAttribute(XNamespace.Xmlns + "dc", Ns.DC),
+                new XAttribute(XNamespace.Xmlns + "svg", Ns.SVG));
+            
             foreach (var child in Children)
             {
                 element.Add(child.ToXElement());
@@ -26,9 +33,11 @@ namespace Editor.MathML3
             element.AddMathMLAttribute("mathcolor", MathColor);
             element.AddMathMLAttribute("display", Display);
             element.AddMathMLAttribute("mode", Mode);
+            element.AddXMLAttribute("lang", LanguageCode);
 
-            var doc = new XDocument();
-            doc.Add(new XDeclaration("1.0", "utf-8", "yes"));
+            var doc = new XDocument(
+                new XDeclaration("1.0", "utf-8", "yes"),
+                new XComment($"Created on {DateTime.UtcNow:yyyy-mm-ddTHH:mm:ssZ}"));
             doc.Add(element);
             return doc;
         }
@@ -45,5 +54,10 @@ namespace Editor.MathML3
 
         [Obsolete("deprecated")]
         public string Mode { get; set; } = "display";
+
+        /// <summary>
+        /// The ISO 639-1 language code for the language of the content.
+        /// </summary>
+        public string LanguageCode { get; set; } = string.Empty;
     }
 }

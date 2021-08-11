@@ -10,6 +10,7 @@ namespace Editor.MathML3
             element.AddMathMLAttribute("id", Id);
             element.AddMathMLAttribute("style", Style);
             element.AddXMLAttribute("lang", LanguageCode);
+            element.Value = Content;
             return element;
         }
 
@@ -23,5 +24,7 @@ namespace Editor.MathML3
         /// The ISO 639-1 language code for the language of the content.
         /// </summary>
         public string LanguageCode { get; set; } = string.Empty;
+
+        public string Content { get; set; } = string.Empty;
     }
 }

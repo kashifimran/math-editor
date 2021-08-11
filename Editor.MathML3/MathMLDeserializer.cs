@@ -1,0 +1,211 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Xml.Linq;
+
+namespace Editor.MathML3
+{
+    public static class MathMLDeserializer
+    {
+        private static Serilog.ILogger Log => Serilog.Log.ForContext(typeof(MathMLDeserializer));
+
+        public static Math ToMathElement(XDocument document)
+        {
+            if (document.Declaration != null && document.Declaration?.Version != "1.0")
+            {
+                throw new ArgumentOutOfRangeException($"XML Version must be 1.0, but was {document.Declaration?.Version}");
+            }
+
+            var element = document.Root;
+            if(element == null)
+            {
+                throw new ArgumentException("Root element is missing", nameof(document));
+            }
+
+            if(element.Name.LocalName != "math")
+            {
+                throw new ArgumentException($"Root element of MathML files must be named 'math', but was '{element.Name.LocalName}'.", nameof(document));
+            }
+
+            if(element.Name != Ns.MathML + "math")
+            {
+                throw new ArgumentException($"Root element 'math' is not in the proper XML namespace. Expected '{Ns.MathML}', but was '{element.Name.Namespace}'.", nameof(document));
+            }
+
+            return ParseMathElement(element);
+        }
+
+        private static Math ParseMathElement(XElement element)
+        {
+            var mathElement = new Math
+            {
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Dir = element.Attribute(Ns.MathML + "dir")?.Value ?? string.Empty,
+                Display = element.Attribute(Ns.MathML + "display")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
+                Mode = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+            };
+
+            foreach (var child in GetChilden(element.Elements()))
+            {
+                mathElement.Children.Add(child);
+            }
+
+            return mathElement;
+        }
+
+        private static IEnumerable<IMathMLElement> GetChilden(IEnumerable<XElement> elements)
+        {
+            foreach (var element in elements)
+            {
+                #region Tokens
+                if (element.Name == Ns.MathML + "mo")
+                {
+                    yield return ParseMoElement(element);
+                }
+                else if(element.Name == Ns.MathML + "mi")
+                {
+                    yield return ParseMiElement(element);
+                }
+                else if(element.Name == Ns.MathML + "ms")
+                {
+                    yield return ParseMsElement(element);
+                }
+                else if (element.Name == Ns.MathML + "mn")
+                {
+                    yield return ParseMnElement(element);
+                }
+                else if (element.Name == Ns.MathML + "mspace")
+                {
+                    yield return ParseMspaceElement(element);
+                }
+                else if (element.Name == Ns.MathML + "mtext")
+                {
+                    yield return ParseMtextElement(element);
+                }
+                else
+                {
+                    Log.Warning("The element {elementname} is not supported", element.Name);
+                }
+                #endregion
+            }
+
+            yield break;
+        }
+
+        private static Tokens.Text ParseMtextElement(XElement element)
+        {
+            return new Tokens.Text
+            {
+                Content = element.Value,
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Dir = element.Attribute(Ns.MathML + "dir")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                DisplayStyle = element.Attribute(Ns.MathML + "displaystyle")?.Value ?? string.Empty,
+                Href = element.Attribute(Ns.MathML + "href")?.Value ?? string.Empty,
+                LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+                MathSize = element.Attribute(Ns.MathML + "mathsize")?.Value ?? string.Empty,
+                MathVariant = element.Attribute(Ns.MathML + "mathvariant")?.Value ?? string.Empty
+            };
+        }
+
+        private static Space ParseMspaceElement(XElement element)
+        {
+            return new Space
+            {
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                DisplayStyle = element.Attribute(Ns.MathML + "displaystyle")?.Value ?? string.Empty,
+                Depth = element.Attribute(Ns.MathML + "depth")?.Value ?? string.Empty,
+                Height = element.Attribute(Ns.MathML + "height")?.Value ?? string.Empty,
+                Width = element.Attribute(Ns.MathML + "width")?.Value ?? string.Empty,
+            };
+        }
+
+        private static Number ParseMnElement(XElement element)
+        {
+            return new Number
+            {
+                Content = element.Value,
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Dir = element.Attribute(Ns.MathML + "dir")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                DisplayStyle = element.Attribute(Ns.MathML + "displaystyle")?.Value ?? string.Empty,
+                Href = element.Attribute(Ns.MathML + "href")?.Value ?? string.Empty,
+                LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+                MathSize = element.Attribute(Ns.MathML + "mathsize")?.Value ?? string.Empty,
+                MathVariant = element.Attribute(Ns.MathML + "mathvariant")?.Value ?? string.Empty
+            };
+        }
+
+        private static LiteralString ParseMsElement(XElement element)
+        {
+            return new LiteralString
+            {
+                Content = element.Value,
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Dir = element.Attribute(Ns.MathML + "dir")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                DisplayStyle = element.Attribute(Ns.MathML + "displaystyle")?.Value ?? string.Empty,
+                Href = element.Attribute(Ns.MathML + "href")?.Value ?? string.Empty,
+                LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+                MathSize = element.Attribute(Ns.MathML + "mathsize")?.Value ?? string.Empty,
+                MathVariant = element.Attribute(Ns.MathML + "mathvariant")?.Value ?? string.Empty,
+                LeftQuote = element.Attribute(Ns.MathML + "lquote")?.Value ?? string.Empty,
+                RightQuote = element.Attribute(Ns.MathML + "rquote")?.Value ?? string.Empty,
+            };
+        }
+
+        private static Identifier ParseMiElement(XElement element)
+        {
+            return new Identifier
+            {
+                Content = element.Value,
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Dir = element.Attribute(Ns.MathML + "dir")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                DisplayStyle = element.Attribute(Ns.MathML + "displaystyle")?.Value ?? string.Empty,
+                Href = element.Attribute(Ns.MathML + "href")?.Value ?? string.Empty,
+                LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+                MathSize = element.Attribute(Ns.MathML + "mathsize")?.Value ?? string.Empty,
+                MathVariant = element.Attribute(Ns.MathML + "mathvariant")?.Value ?? string.Empty
+            };
+        }
+
+        private static Operator ParseMoElement(XElement element)
+        {
+            return new Operator
+            {
+                Content = element.Value,
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Dir = element.Attribute(Ns.MathML + "dir")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                DisplayStyle = element.Attribute(Ns.MathML + "displaystyle")?.Value ?? string.Empty,
+                Href = element.Attribute(Ns.MathML + "href")?.Value ?? string.Empty,
+                LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+                MathSize = element.Attribute(Ns.MathML + "mathsize")?.Value ?? string.Empty,
+                MathVariant = element.Attribute(Ns.MathML + "mathvariant")?.Value ?? string.Empty,
+            };
+        }
+    }
+}

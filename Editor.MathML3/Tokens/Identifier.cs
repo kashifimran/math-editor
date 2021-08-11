@@ -10,18 +10,7 @@ namespace Editor.MathML3
         public override XElement ToXElement()
         {
             var element = new XElement(Ns.MathML + "mi");
-
-            element.AddMathMLAttribute("class", Class);
-            element.AddMathMLAttribute("id", Id);
-            element.AddMathMLAttribute("style", Style);
-            element.AddMathMLAttribute("dir", Dir);
-            element.AddMathMLAttribute("displaystyle", DisplayStyle);
-            element.AddMathMLAttribute("href", Href);
-            element.AddMathMLAttribute("mathbackground", MathBackground);
-            element.AddMathMLAttribute("mathcolor", MathColor);
-            element.AddMathMLAttribute("mathsize", MathSize);
-            element.AddMathMLAttribute("mathvariant", MathVariant);
-
+            AddTokenAttributes(element);
             return element;
         }
     }
