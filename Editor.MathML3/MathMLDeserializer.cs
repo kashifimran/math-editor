@@ -16,17 +16,17 @@ namespace Editor.MathML3
             }
 
             var element = document.Root;
-            if(element == null)
+            if (element == null)
             {
                 throw new ArgumentException("Root element is missing", nameof(document));
             }
 
-            if(element.Name.LocalName != "math")
+            if (element.Name.LocalName != "math")
             {
                 throw new ArgumentException($"Root element of MathML files must be named 'math', but was '{element.Name.LocalName}'.", nameof(document));
             }
 
-            if(element.Name != Ns.MathML + "math")
+            if (element.Name != Ns.MathML + "math")
             {
                 throw new ArgumentException($"Root element 'math' is not in the proper XML namespace. Expected '{Ns.MathML}', but was '{element.Name.Namespace}'.", nameof(document));
             }
@@ -36,17 +36,21 @@ namespace Editor.MathML3
 
         private static Math ParseMathElement(XElement element)
         {
+            // because of an bug in XElement, the attributes are without MathML namespace
             var mathElement = new Math
             {
-                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
-                Dir = element.Attribute(Ns.MathML + "dir")?.Value ?? string.Empty,
-                Display = element.Attribute(Ns.MathML + "display")?.Value ?? string.Empty,
-                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
-                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
-                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
-                Mode = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
-                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                Class = element.Attribute("class")?.Value ?? string.Empty,
+                Dir = element.Attribute("dir")?.Value ?? string.Empty,
+                Display = element.Attribute("display")?.Value ?? string.Empty,
+                Id = element.Attribute("id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute("mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute("mathcolor")?.Value ?? string.Empty,
+                Mode = element.Attribute("mode")?.Value ?? string.Empty,
+                Style = element.Attribute("style")?.Value ?? string.Empty,
                 LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+                Macros = element.Attribute("macros")?.Value ?? string.Empty,
+                Bevelled = element.Attribute("bevelled")?.Value ?? string.Empty,
+                Mathsize = element.Attribute("mathsize")?.Value ?? string.Empty
             };
 
             foreach (var child in GetChilden(element.Elements()))
@@ -66,11 +70,11 @@ namespace Editor.MathML3
                 {
                     yield return ParseMoElement(element);
                 }
-                else if(element.Name == Ns.MathML + "mi")
+                else if (element.Name == Ns.MathML + "mi")
                 {
                     yield return ParseMiElement(element);
                 }
-                else if(element.Name == Ns.MathML + "ms")
+                else if (element.Name == Ns.MathML + "ms")
                 {
                     yield return ParseMsElement(element);
                 }
@@ -86,6 +90,14 @@ namespace Editor.MathML3
                 {
                     yield return ParseMtextElement(element);
                 }
+                else if (element.Name == Ns.MathML + "mfrac")
+                {
+                    yield return ParseMfracElement(element);
+                }
+                else if (element.Name == Ns.MathML + "mrow")
+                {
+                    yield return ParseMrowElement(element);
+                }
                 else
                 {
                     Log.Warning("The element {elementname} is not supported", element.Name);
@@ -94,6 +106,55 @@ namespace Editor.MathML3
             }
 
             yield break;
+        }
+
+        private static Row ParseMrowElement(XElement element)
+        {
+            var row = new Row
+            {
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                DisplayStyle = element.Attribute(Ns.MathML + "displaystyle")?.Value ?? string.Empty,
+                Href = element.Attribute(Ns.MathML + "href")?.Value ?? string.Empty,
+                LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+                Dir = element.Attribute(Ns.XML + "dir")?.Value ?? string.Empty,
+            };
+
+            foreach (var child in GetChilden(element.Elements()))
+            {
+                row.Content.Add(child);
+            }
+
+            return row;
+        }
+
+        private static Fraction ParseMfracElement(XElement element)
+        {
+            var frac = new Fraction
+            {
+                Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
+                Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
+                MathBackground = element.Attribute(Ns.MathML + "mathbackground")?.Value ?? string.Empty,
+                MathColor = element.Attribute(Ns.MathML + "mathcolor")?.Value ?? string.Empty,
+                Style = element.Attribute(Ns.MathML + "mode")?.Value ?? string.Empty,
+                DisplayStyle = element.Attribute(Ns.MathML + "displaystyle")?.Value ?? string.Empty,
+                Href = element.Attribute(Ns.MathML + "href")?.Value ?? string.Empty,
+                LanguageCode = element.Attribute(Ns.XML + "lang")?.Value ?? string.Empty,
+                Bevelled = element.Attribute(Ns.XML + "bevelled")?.Value ?? string.Empty,
+                Denomalign = element.Attribute(Ns.XML + "denomalign")?.Value ?? string.Empty,
+                LineThickness = element.Attribute(Ns.XML + "linethickness")?.Value ?? string.Empty,
+                Numalign = element.Attribute(Ns.XML + "numalign")?.Value ?? string.Empty
+            };
+
+            foreach (var child in GetChilden(element.Elements()))
+            {
+                frac.Content.Add(child);
+            }
+
+            return frac;
         }
 
         private static Tokens.Text ParseMtextElement(XElement element)

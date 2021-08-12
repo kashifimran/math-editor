@@ -19,6 +19,8 @@ namespace Editor.MathML3.UnitTests
         }
 
         [Theory]
+        [InlineData("Templates/General/Clipboard/clipboard1.mml")]
+        [InlineData("Templates/General/Clipboard/clipboard2.mml")]
         [InlineData("Templates/General/Math/emptymath2.mml")]
         [InlineData("Templates/General/Math/math1.mml")]
         [InlineData("Templates/General/Math/math3.mml")]
@@ -39,16 +41,27 @@ namespace Editor.MathML3.UnitTests
             if (folder == null) Assert.False(true, "Assembly location could not be located.");
             Debug.Assert(folder != null);
             var document = XDocument.Load(Path.Combine(folder, filePath));
-            var element = MathMLDeserializer.ToMathElement(document);
+            var expected = SerializeDocument(document);
 
-            // log result for manual inspection
-            var doc = element.ToXDocument();
+            var element = MathMLDeserializer.ToMathElement(document);
+            var result = SerializeDocument(element?.ToXDocument());
+
+            // couldn't find a proper working XML Diff library
+            // so we log and compare manually
+            // TODO: implement a proper XML comparison
+            Log.Information(expected);
+            Log.Information(result);
+
+            Assert.True(element != null);
+        }
+
+        private static string SerializeDocument(XDocument? doc)
+        {
+            if (doc == null) return string.Empty;
             var builder = new StringBuilder();
             using var writer = new StringWriter(builder);
             doc.Save(writer);
-            Log.Information(builder.ToString());
-
-            Assert.True(element != null);
+            return builder.ToString();
         }
     }
 }

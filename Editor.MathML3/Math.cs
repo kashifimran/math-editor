@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Xml;
 using System.Xml.Linq;
 
 namespace Editor.MathML3
@@ -33,8 +32,11 @@ namespace Editor.MathML3
             element.AddMathMLAttribute("mathcolor", MathColor);
             element.AddMathMLAttribute("display", Display);
             element.AddMathMLAttribute("mode", Mode);
+            element.AddMathMLAttribute("macros", Macros);
+            element.AddMathMLAttribute("bevelled", Bevelled);
+            element.AddMathMLAttribute("mathsize", Mathsize);
             element.AddXMLAttribute("lang", LanguageCode);
-
+            
             var doc = new XDocument(
                 new XDeclaration("1.0", "utf-8", "yes"),
                 new XComment($"Created on {DateTime.UtcNow:yyyy-mm-ddTHH:mm:ssZ}"));
@@ -54,6 +56,12 @@ namespace Editor.MathML3
 
         [Obsolete("deprecated")]
         public string Mode { get; set; } = "display";
+
+        public string Macros { get; set; } = string.Empty;
+
+        public string Bevelled { get; set; } = string.Empty;
+
+        public string Mathsize { get; set; } = string.Empty;
 
         /// <summary>
         /// The ISO 639-1 language code for the language of the content.

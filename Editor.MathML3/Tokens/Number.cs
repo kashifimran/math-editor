@@ -10,12 +10,8 @@ namespace Editor.MathML3
         public override XElement ToXElement()
         {
             var element = new XElement(Ns.MathML + "mn", Content);
-
             AddTokenAttributes(element);
-
             return element;
         }
-
-        public string Content { get; set; } = string.Empty;
     }
 }
