@@ -41,5 +41,13 @@ namespace Editor.MathML3
         /// RDF Math Annotations
         /// </summary>
         public static XNamespace Math { get; } = @"http://www.w3.org/2000/10/swap/math#";
+
+        /// <summary>
+        /// XML Link
+        /// </summary>
+        /// <remarks>
+        /// Prefer Href attribute where available.
+        /// </remarks>
+        public static XNamespace XLink { get; } = @"http://www.w3.org/1999/xlink";
     }
 }

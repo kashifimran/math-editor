@@ -21,5 +21,14 @@ namespace Editor.MathML3
             }
             return element;
         }
+
+        public static XElement AddXLinkAttribute(this XElement element, string name, string value)
+        {
+            if (!string.IsNullOrEmpty(value))
+            {
+                element.Add(new XAttribute(Ns.XLink + name, value));
+            }
+            return element;
+        }
     }
 }

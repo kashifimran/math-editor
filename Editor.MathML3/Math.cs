@@ -7,9 +7,19 @@ namespace Editor.MathML3
     /// <summary>
     /// MathML root element
     /// </summary>
-    public sealed class Math
+    public sealed class Math : ElementBase
     {
         public XDocument ToXDocument()
+        {
+            var element = this.ToXElement();
+            var doc = new XDocument(
+                new XDeclaration("1.0", "utf-8", "yes"),
+                new XComment($"Created on {DateTime.UtcNow:yyyy-mm-ddTHH:mm:ssZ}"));
+            doc.Add(element);
+            return doc;
+        }
+
+        public override XElement ToXElement()
         {
             var element = new XElement(Ns.MathML + "math",
                 new XAttribute(XNamespace.Xmlns + "m", Ns.MathML),
@@ -17,13 +27,10 @@ namespace Editor.MathML3
                 new XAttribute(XNamespace.Xmlns + "rdf", Ns.RDF),
                 new XAttribute(XNamespace.Xmlns + "html", Ns.HTML5),
                 new XAttribute(XNamespace.Xmlns + "dc", Ns.DC),
-                new XAttribute(XNamespace.Xmlns + "svg", Ns.SVG));
-            
-            foreach (var child in Children)
-            {
-                element.Add(child.ToXElement());
-            }
+                new XAttribute(XNamespace.Xmlns + "svg", Ns.SVG),
+                new XAttribute(XNamespace.Xmlns + "xlink", Ns.XLink));
 
+            AddElementAttributes(element);
             element.AddMathMLAttribute("class", Class);
             element.AddMathMLAttribute("id", Id);
             element.AddMathMLAttribute("style", Style);
@@ -36,19 +43,17 @@ namespace Editor.MathML3
             element.AddMathMLAttribute("bevelled", Bevelled);
             element.AddMathMLAttribute("mathsize", Mathsize);
             element.AddXMLAttribute("lang", LanguageCode);
-            
-            var doc = new XDocument(
-                new XDeclaration("1.0", "utf-8", "yes"),
-                new XComment($"Created on {DateTime.UtcNow:yyyy-mm-ddTHH:mm:ssZ}"));
-            doc.Add(element);
-            return doc;
+
+            foreach (var child in Children)
+            {
+                element.Add(child.ToXElement());
+            }
+
+            return element;
         }
 
         public IList<IMathMLElement> Children { get; } = new List<IMathMLElement>();
 
-        public string Class { get; set; } = string.Empty;
-        public string Id { get; set; } = string.Empty;
-        public string Style { get; set; } = string.Empty;
         public string Dir { get; set; } = "ltr";
         public string MathBackground { get; set; } = string.Empty;
         public string MathColor { get; set; } = string.Empty;
