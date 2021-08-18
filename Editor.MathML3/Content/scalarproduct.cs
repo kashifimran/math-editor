@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Editor.MathML3.Content
 {
-    public class scalarproduct
+    public sealed class scalarproduct
     {
         
     }

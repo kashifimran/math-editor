@@ -7,9 +7,11 @@ namespace Editor.MathML3
         protected XElement AddElementAttributes(XElement element)
         {
             element.ApplyXLinkAttributes(this);
-            element.AddMathMLAttribute("class", Class);
             element.AddMathMLAttribute("id", Id);
+            element.AddMathMLAttribute("xref", XRef);
+            element.AddMathMLAttribute("class", Class);
             element.AddMathMLAttribute("style", Style);
+            element.AddMathMLAttribute("href", HRef);
             element.AddXMLAttribute("lang", LanguageCode);
             element.Value = Content;
             return element;
@@ -17,9 +19,11 @@ namespace Editor.MathML3
 
         public abstract XElement ToXElement();
 
-        public string Class { get; set; } = string.Empty;
         public string Id { get; set; } = string.Empty;
+        public string XRef { get; set; } = string.Empty;
+        public string Class { get; set; } = string.Empty;
         public string Style { get; set; } = string.Empty;
+        public string HRef { get; set; } = string.Empty;
 
         /// <summary>
         /// The ISO 639-1 language code for the language of the content.

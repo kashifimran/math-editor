@@ -31,9 +31,6 @@ namespace Editor.MathML3
                 new XAttribute(XNamespace.Xmlns + "xlink", Ns.XLink));
 
             AddElementAttributes(element);
-            element.AddMathMLAttribute("class", Class);
-            element.AddMathMLAttribute("id", Id);
-            element.AddMathMLAttribute("style", Style);
             element.AddMathMLAttribute("dir", Dir);
             element.AddMathMLAttribute("mathbackground", MathBackground);
             element.AddMathMLAttribute("mathcolor", MathColor);
@@ -42,7 +39,14 @@ namespace Editor.MathML3
             element.AddMathMLAttribute("macros", Macros);
             element.AddMathMLAttribute("bevelled", Bevelled);
             element.AddMathMLAttribute("mathsize", Mathsize);
-            element.AddXMLAttribute("lang", LanguageCode);
+            element.AddMathMLAttribute("maxwith", MaxWith);
+            element.AddMathMLAttribute("overflow", Overflow);
+            element.AddMathMLAttribute("altimg", AltImg);
+            element.AddMathMLAttribute("altimg-with", AltImgWidth);
+            element.AddMathMLAttribute("altimg-height", AltImgHeight);
+            element.AddMathMLAttribute("altimg-valign", AltImgValign);
+            element.AddMathMLAttribute("alttext", AltText);
+            element.AddMathMLAttribute("cdgroup", CdGroup);
 
             foreach (var child in Children)
             {
@@ -62,15 +66,19 @@ namespace Editor.MathML3
         [Obsolete("deprecated")]
         public string Mode { get; set; } = "display";
 
+        [Obsolete("deprecated")]
         public string Macros { get; set; } = string.Empty;
 
         public string Bevelled { get; set; } = string.Empty;
-
         public string Mathsize { get; set; } = string.Empty;
 
-        /// <summary>
-        /// The ISO 639-1 language code for the language of the content.
-        /// </summary>
-        public string LanguageCode { get; set; } = string.Empty;
+        public string MaxWith { get; set; } = string.Empty;
+        public string Overflow { get; set; } = string.Empty;
+        public string AltImg { get; set; } = string.Empty;
+        public string AltImgWidth { get; set; } = string.Empty;
+        public string AltImgHeight { get; set; } = string.Empty;
+        public string AltImgValign { get; set; } = string.Empty;
+        public string AltText { get; set; } = string.Empty;
+        public string CdGroup { get; set; } = string.Empty;
     }
 }

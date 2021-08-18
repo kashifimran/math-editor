@@ -1,13 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Xml.Linq;
 
 namespace Editor.MathML3.Content
 {
-    public class cn
+    /// <summary>
+    /// Numbers
+    /// </summary>
+    public sealed class cn : DefEncAtt
     {
+        public override XElement ToXElement()
+        {
+            throw new System.NotImplementedException();
+        }
         
+        public string Type { get; set; } = string.Empty;
+        public string Base { get; set; } = string.Empty;
     }
 }

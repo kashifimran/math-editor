@@ -5,7 +5,7 @@ namespace Editor.MathML3
     /// <summary>
     /// Semantic annotation
     /// </summary>
-    public sealed class Semantics : IMathMLElement
+    public sealed class semantics : IMathMLElement
     {
         public XElement ToXElement()
         {

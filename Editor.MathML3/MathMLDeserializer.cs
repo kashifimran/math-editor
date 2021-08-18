@@ -108,9 +108,9 @@ namespace Editor.MathML3
             yield break;
         }
 
-        private static Row ParseMrowElement(XElement element)
+        private static mrow ParseMrowElement(XElement element)
         {
-            var row = new Row
+            var row = new mrow
             {
                 Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
                 Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
@@ -157,9 +157,9 @@ namespace Editor.MathML3
             return frac;
         }
 
-        private static Tokens.Text ParseMtextElement(XElement element)
+        private static Tokens.mtext ParseMtextElement(XElement element)
         {
-            return new Tokens.Text
+            return new Tokens.mtext
             {
                 Content = element.Value,
                 Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
@@ -176,9 +176,9 @@ namespace Editor.MathML3
             };
         }
 
-        private static Space ParseMspaceElement(XElement element)
+        private static mspace ParseMspaceElement(XElement element)
         {
-            return new Space
+            return new mspace
             {
                 Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
                 Id = element.Attribute(Ns.MathML + "id")?.Value ?? string.Empty,
@@ -191,9 +191,9 @@ namespace Editor.MathML3
             };
         }
 
-        private static Number ParseMnElement(XElement element)
+        private static mn ParseMnElement(XElement element)
         {
-            return new Number
+            return new mn
             {
                 Content = element.Value,
                 Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
@@ -231,9 +231,9 @@ namespace Editor.MathML3
             };
         }
 
-        private static Identifier ParseMiElement(XElement element)
+        private static mi ParseMiElement(XElement element)
         {
-            return new Identifier
+            return new mi
             {
                 Content = element.Value,
                 Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
@@ -250,9 +250,9 @@ namespace Editor.MathML3
             };
         }
 
-        private static Operator ParseMoElement(XElement element)
+        private static mo ParseMoElement(XElement element)
         {
-            return new Operator
+            return new mo
             {
                 Content = element.Value,
                 Class = element.Attribute(Ns.MathML + "class")?.Value ?? string.Empty,
