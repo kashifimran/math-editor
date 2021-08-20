@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>sacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scaron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Scaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Scaron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sccue</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sccue;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sce</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sce;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Scedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Scedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Scirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Scirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scnap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scnap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scnE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scnsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scnsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scpolint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scpolint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &scy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Scy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Scy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sdotb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sdotb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sdote</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sdote;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>searhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &searhk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>searr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &searr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>seArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &seArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>searrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &searrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sect</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sect;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>semi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &semi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>seswar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &seswar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>setminus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &setminus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>setmn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &setmn;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sext</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sext;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sfrown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sfrown;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sharp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sharp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shchcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &shchcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SHCHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SHCHcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &shcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SHcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ShortDownArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ShortDownArrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ShortLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ShortLeftArrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shortmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &shortmid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shortparallel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &shortparallel;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ShortRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ShortRightArrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ShortUpArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ShortUpArrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &shy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sigma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sigma;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sigma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sigma;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sigmav</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sigmav;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &simdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sime;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &simeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &simg;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simgE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &simgE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>siml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &siml;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simlE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &simlE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &simne;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &simplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &simrarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>slarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &slarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SmallCircle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SmallCircle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smallsetminus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &smallsetminus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smashp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &smashp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smeparsl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &smeparsl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &smid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smile</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &smile;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &smt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smte</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &smte;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smtes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &smtes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>softcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &softcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SOFTcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SOFTcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sol</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sol;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>solb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &solb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>solbar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &solbar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>spades</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &spades;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>spadesuit</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &spadesuit;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>spar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &spar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqcap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqcap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqcaps</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqcaps;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqcup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqcup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqcups</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqcups;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sqrt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sqrt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqsub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqsube;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqsubset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsubseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqsubseteq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqsup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsupe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqsupe;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsupset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqsupset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsupseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sqsupseteq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>squ</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &squ;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>square</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &square;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Square</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Square;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareIntersection</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SquareIntersection;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareSubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SquareSubset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareSubsetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SquareSubsetEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareSuperset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SquareSuperset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareSupersetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SquareSupersetEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareUnion</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SquareUnion;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>squarf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &squarf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>squf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &squf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>srarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &srarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ssetmn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ssetmn;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ssmile</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ssmile;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sstarf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sstarf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>star</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &star;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Star</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Star;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>starf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &starf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>straightepsilon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &straightepsilon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>straightphi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &straightphi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>strns</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &strns;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sube;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subedot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subedot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>submult</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &submult;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subne;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subnE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subrarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Subset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Subset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subseteq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subseteqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subseteqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SubsetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SubsetEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsetneq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subsetneq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsetneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subsetneqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subsub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &subsup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succ</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &succ;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &succapprox;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succcurlyeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &succcurlyeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Succeeds</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Succeeds;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SucceedsEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SucceedsEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SucceedsSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SucceedsSlantEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SucceedsTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SucceedsTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &succeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succnapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &succnapprox;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &succneqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succnsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &succnsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &succsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SuchThat</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SuchThat;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sum</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sum;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sum</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sum;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sung</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sung;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Sup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sup1</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sup1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sup2</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sup2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sup3</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &sup3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supdsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supdsub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supe;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supedot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supedot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Superset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Superset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SupersetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &SupersetEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>suphsol</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &suphsol;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>suphsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &suphsub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>suplarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &suplarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supmult</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supmult;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supne;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supnE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Supset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Supset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supseteq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supseteqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supseteqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsetneq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supsetneq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsetneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supsetneqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supsub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &supsup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swarhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &swarhk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &swarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &swArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &swarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swnwar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &swnwar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>szlig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &szlig;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

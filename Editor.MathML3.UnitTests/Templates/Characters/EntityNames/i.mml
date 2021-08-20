@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>iacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Iacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ic</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ic;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>icirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &icirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Icirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Icirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>icy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &icy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Icy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Icy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Idot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Idot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iecy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iecy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>IEcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &IEcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iexcl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iexcl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iff</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iff;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ifr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ifr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ifr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ifr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>igrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &igrave;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Igrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Igrave;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ii</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ii;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iiiint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iiiint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iiint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iiint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iinfin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iinfin;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iiota</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iiota;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ijlig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ijlig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>IJlig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &IJlig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Im</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Im;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &imacr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Imacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Imacr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>image</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &image;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ImaginaryI</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ImaginaryI;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imagline</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &imagline;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imagpart</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &imagpart;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imath</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &imath;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imof</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &imof;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imped</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &imped;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Implies</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Implies;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>in</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &in;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>incare</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &incare;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>infin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &infin;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>infintie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &infintie;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>inodot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &inodot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>int</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &int;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Int</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Int;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>intcal</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &intcal;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>integers</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &integers;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Integral</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Integral;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>intercal</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &intercal;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Intersection</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Intersection;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>intlarhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &intlarhk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>intprod</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &intprod;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>InvisibleComma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &InvisibleComma;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>InvisibleTimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &InvisibleTimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iocy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iocy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>IOcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &IOcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iogon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Iogon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Iopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iota</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iota;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iprod</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iprod;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iquest</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iquest;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Iscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &isin;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isindot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &isindot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isinE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &isinE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isins</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &isins;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isinsv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &isinsv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isinv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &isinv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>it</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &it;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>itilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &itilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Itilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Itilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iukcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iukcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iukcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Iukcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iuml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &iuml;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iuml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Iuml;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>nabla</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nabla;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Nacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Nacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nang;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>napE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &napE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>napid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &napid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>napos</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &napos;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>napprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &napprox;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>natur</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &natur;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>natural</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &natural;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>naturals</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &naturals;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nbsp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nbsp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nbump</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nbump;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nbumpe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nbumpe;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ncap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ncaron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ncaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ncaron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ncedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ncedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ncedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncong</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ncong;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncongdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ncongdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ncup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ncy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ncy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ncy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ndash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ndash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ne;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nearhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nearhk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nearr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nearr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>neArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &neArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nearrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nearrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nedot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nedot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NegativeMediumSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NegativeMediumSpace;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NegativeThickSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NegativeThickSpace;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NegativeThinSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NegativeThinSpace;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NegativeVeryThinSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NegativeVeryThinSpace;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nequiv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nequiv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nesear</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nesear;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nesim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nesim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NestedGreaterGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NestedGreaterGreater;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NestedLessLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NestedLessLess;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NewLine</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NewLine;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nexist</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nexist;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nexists</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nexists;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Nfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Nfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nge;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ngE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ngeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngeqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ngeqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngeqslant</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ngeqslant;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nges</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nges;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nGg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nGg;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ngsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ngt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nGt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nGt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngtr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ngtr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nGtv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nGtv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nharr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nharr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nhArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nhArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nhpar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nhpar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ni</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ni;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nis</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nis;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nisd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nisd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>niv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &niv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>njcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &njcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NJcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NJcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nlarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nlArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nldr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nldr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nlE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nleftarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLeftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nLeftarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleftrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nleftrightarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLeftrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nLeftrightarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nleq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nleqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleqslant</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nleqslant;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nles</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nles;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nless</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nless;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nLl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nlsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nlt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nLt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nltri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nltri;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nltrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nltrie;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLtv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nLtv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nmid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NoBreak</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NoBreak;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NonBreakingSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NonBreakingSpace;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Nopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Nopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>not</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &not;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Not</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Not;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotCongruent</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotCongruent;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotCupCap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotCupCap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotDoubleVerticalBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotDoubleVerticalBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotElement</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotElement;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotEqualTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotEqualTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotExists</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotExists;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotGreater;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotGreaterEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterFullEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotGreaterFullEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotGreaterGreater;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotGreaterLess;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotGreaterSlantEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotGreaterTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotHumpDownHump</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotHumpDownHump;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotHumpEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotHumpEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notin;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notindot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notindot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notinE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notinE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notinva</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notinva;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notinvb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notinvb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notinvc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notinvc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLeftTriangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLeftTriangle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLeftTriangleBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLeftTriangleBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLeftTriangleEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLeftTriangleEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLess;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLessEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLessGreater;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLessLess;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLessSlantEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotLessTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotNestedGreaterGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotNestedGreaterGreater;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotNestedLessLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotNestedLessLess;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notni</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notni;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notniva</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notniva;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notnivb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notnivb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notnivc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &notnivc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotPrecedes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotPrecedes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotPrecedesEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotPrecedesEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotPrecedesSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotPrecedesSlantEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotReverseElement</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotReverseElement;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotRightTriangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotRightTriangle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotRightTriangleBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotRightTriangleBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotRightTriangleEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotRightTriangleEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSquareSubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSquareSubset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSquareSubsetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSquareSubsetEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSquareSuperset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSquareSuperset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSquareSupersetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSquareSupersetEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSubset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSubsetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSubsetEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSucceeds</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSucceeds;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSucceedsEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSucceedsEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSucceedsSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSucceedsSlantEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSucceedsTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSucceedsTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSuperset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSuperset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSupersetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotSupersetEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotTildeEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotTildeEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotTildeFullEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotTildeFullEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotTildeTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotTildeTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotVerticalBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &NotVerticalBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &npar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nparallel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nparallel;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nparsl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nparsl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npart</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &npart;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npolint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &npolint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &npr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nprcue</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nprcue;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npre</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &npre;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nprec</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nprec;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npreceq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &npreceq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nrarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nrArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrarrc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nrarrc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrarrw</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nrarrw;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nrightarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nRightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nRightarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrtri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nrtri;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrtrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nrtrie;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsccue</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsccue;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsce</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsce;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Nscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Nscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nshortmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nshortmid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nshortparallel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nshortparallel;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsime;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsimeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsimeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsmid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nspar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nspar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsqsube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsqsube;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsqsupe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsqsupe;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsube;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsubE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsubE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsubset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsubseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsubseteq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsubseteqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsubseteqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsucc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsucc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsucceq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsucceq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsupe;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsupE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsupset;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsupseteq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupseteqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nsupseteqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntgl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ntgl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ntilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ntilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ntilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntlg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ntlg;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntriangleleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ntriangleleft;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntrianglelefteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ntrianglelefteq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntriangleright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ntriangleright;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntrianglerighteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ntrianglerighteq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nu;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>num</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &num;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>numero</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &numero;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>numsp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &numsp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvdash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvdash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvDash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvDash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nVdash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nVdash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nVDash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nVDash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvge;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvgt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvgt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvHarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvHarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvinfin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvinfin;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvlArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvlArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvlt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvlt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvltrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvltrie;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvrArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvrArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvrtrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvrtrie;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nvsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwarhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nwarhk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nwarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nwArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nwarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwnear</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &nwnear;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>cacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>capand</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &capand;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>capbrcup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &capbrcup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>capcap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &capcap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>capcup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &capcup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>capdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &capdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CapitalDifferentialD</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CapitalDifferentialD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>caps</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &caps;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>caret</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &caret;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>caron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &caron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cayleys</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cayleys;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ccaps</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ccaps;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ccaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ccaron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ccaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ccaron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ccedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ccedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ccedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ccedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ccirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ccirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ccirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ccirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cconint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cconint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ccups</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ccups;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ccupssm</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ccupssm;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cedilla</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cedilla;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cemptyv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cemptyv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cent</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cent;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>centerdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &centerdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CenterDot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CenterDot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>chcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &chcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CHcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>check</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &check;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>checkmark</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &checkmark;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>chi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &chi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circ</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circ;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circlearrowleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circlearrowleft;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circlearrowright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circlearrowright;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circledast</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circledast;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circledcirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circledcirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circleddash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circleddash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CircleDot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CircleDot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circledR</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circledR;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>circledS</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &circledS;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CircleMinus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CircleMinus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CirclePlus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CirclePlus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CircleTimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CircleTimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cire</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cire;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cirE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cirE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cirfnint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cirfnint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cirmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cirmid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cirscir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cirscir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ClockwiseContourIntegral</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ClockwiseContourIntegral;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CloseCurlyDoubleQuote</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CloseCurlyDoubleQuote;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CloseCurlyQuote</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CloseCurlyQuote;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>clubs</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &clubs;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>clubsuit</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &clubsuit;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>colon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &colon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Colon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Colon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>colone</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &colone;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Colone</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Colone;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>coloneq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &coloneq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>comma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &comma;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>commat</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &commat;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>comp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &comp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>compfn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &compfn;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>complement</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &complement;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>complexes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &complexes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cong</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cong;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>congdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &congdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Congruent</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Congruent;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>conint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &conint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Conint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Conint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ContourIntegral</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ContourIntegral;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>copf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &copf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Copf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Copf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>coprod</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &coprod;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Coproduct</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Coproduct;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>copy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &copy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>copysr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &copysr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CounterClockwiseContourIntegral</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CounterClockwiseContourIntegral;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cross</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cross;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cross</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cross;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>csub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &csub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>csube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &csube;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>csup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &csup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>csupe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &csupe;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ctdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ctdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cudarrl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cudarrl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cudarrr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cudarrr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cuepr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cuepr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cuesc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cuesc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cularr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cularr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cularrp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cularrp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Cup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Cup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cupbrcap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cupbrcap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cupcap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cupcap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>CupCap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &CupCap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cupcup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cupcup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cupdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cupdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cupor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cupor;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cups</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cups;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curarrm</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curarrm;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curlyeqprec</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curlyeqprec;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curlyeqsucc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curlyeqsucc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curlyvee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curlyvee;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curlywedge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curlywedge;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curren</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curren;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curvearrowleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curvearrowleft;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>curvearrowright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &curvearrowright;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cuvee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cuvee;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cuwed</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cuwed;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cwconint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cwconint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cwint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cwint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>cylcty</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &cylcty;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

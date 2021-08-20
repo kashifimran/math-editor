@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>oacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Oacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Oacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oast</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oast;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ocir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ocir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ocirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ocirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ocirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ocirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ocy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ocy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ocy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ocy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>odash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &odash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>odblac</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &odblac;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Odblac</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Odblac;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>odiv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &odiv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>odot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &odot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>odsold</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &odsold;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oelig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oelig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>OElig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &OElig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ofcir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ofcir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ofr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ofr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ofr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ofr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ogon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ograve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ograve;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ograve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ograve;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ogt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ogt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ohbar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ohbar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ohm</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ohm;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>olarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &olarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>olcir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &olcir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>olcross</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &olcross;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>olt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &olt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>omacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &omacr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Omacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Omacr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>omega</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &omega;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Omega</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Omega;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>omid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &omid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ominus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ominus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Oopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Oopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>opar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &opar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>OpenCurlyDoubleQuote</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &OpenCurlyDoubleQuote;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>OpenCurlyQuote</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &OpenCurlyQuote;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>operp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &operp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>or</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &or;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Or</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Or;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>orarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &orarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ord</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ord;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>order</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &order;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>orderof</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &orderof;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ordf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ordf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ordm</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ordm;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>origof</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &origof;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oror</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oror;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>orslope</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &orslope;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>orv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &orv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oS</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oS;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Oscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Oscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>oslash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &oslash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Oslash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Oslash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>osol</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &osol;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>otilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &otilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Otilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Otilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>otimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &otimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Otimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Otimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>otimesas</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &otimesas;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ouml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ouml;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ouml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ouml;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ovbar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ovbar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>OverBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &OverBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>OverBrace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &OverBrace;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>OverBracket</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &OverBracket;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>OverParenthesis</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &OverParenthesis;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

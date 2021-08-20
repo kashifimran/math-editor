@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>kappa</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kappa;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kappav</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kappav;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kcedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Kcedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Kcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Kfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kgreen</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kgreen;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>khcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &khcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>KHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &KHcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kjcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kjcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>KJcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &KJcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Kopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &kscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Kscr;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

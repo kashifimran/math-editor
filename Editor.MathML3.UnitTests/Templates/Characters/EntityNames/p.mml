@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>par</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &par;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>para</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &para;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>parallel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &parallel;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>parsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &parsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>parsl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &parsl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>part</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &part;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>PartialD</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &PartialD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Pcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Pcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>percnt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &percnt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>period</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &period;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>permil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &permil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>perp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &perp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pertenk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pertenk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Pfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Pfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>phi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &phi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Phi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Phi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>phiv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &phiv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>phmmat</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &phmmat;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>phone</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &phone;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Pi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Pi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pitchfork</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pitchfork;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>piv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &piv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>planck</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &planck;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>planckh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &planckh;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plankv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plankv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plusacir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plusacir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plusb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plusb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pluscir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pluscir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plusdo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plusdo;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plusdu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plusdu;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pluse</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pluse;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>PlusMinus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &PlusMinus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plusmn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plusmn;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plussim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plussim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>plustwo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &plustwo;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pm</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pm;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Poincareplane</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Poincareplane;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pointint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pointint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>popf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &popf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Popf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Popf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pound</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pound;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Pr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Pr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prcue</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prcue;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pre</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pre;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prec</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prec;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>precapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &precapprox;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>preccurlyeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &preccurlyeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Precedes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Precedes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>PrecedesEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &PrecedesEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>PrecedesSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &PrecedesSlantEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>PrecedesTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &PrecedesTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>preceq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &preceq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>precnapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &precnapprox;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>precneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &precneqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>precnsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &precnsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>precsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &precsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prime;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Prime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Prime;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>primes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &primes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prnap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prnap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prnE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prnsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prnsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prod</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prod;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Product</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Product;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>profalar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &profalar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>profline</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &profline;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>profsurf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &profsurf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prop</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prop;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Proportion</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Proportion;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Proportional</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Proportional;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>propto</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &propto;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>prurel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &prurel;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>pscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &pscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Pscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Pscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>psi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &psi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Psi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Psi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>puncsp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &puncsp;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

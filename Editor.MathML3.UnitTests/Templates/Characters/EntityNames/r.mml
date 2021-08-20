@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>rAarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rAarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>race</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &race;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>racute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &racute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Racute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Racute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>radic</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &radic;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>raemptyv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &raemptyv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rang;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rang;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rangd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rangd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>range</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &range;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rangle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>raquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &raquo;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rArr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrbfs</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrbfs;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrfs</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrfs;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrhk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrlp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrlp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrpl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrpl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrtl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrtl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rarrtl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rarrtl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrw</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rarrw;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ratail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ratail;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rAtail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rAtail;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ratio</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ratio;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rationals</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rationals;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rbarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rBarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rBarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RBarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RBarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbbrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rbbrk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rbrace;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrack</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rbrack;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrke</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rbrke;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrksld</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rbrksld;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrkslu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rbrkslu;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rcaron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rcaron;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rcedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rcedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rceil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rceil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rcub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rcub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdca</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rdca;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdldhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rdldhar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rdquo;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdquor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rdquor;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rdsh;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Re</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Re;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>real</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &real;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>realine</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &realine;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>realpart</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &realpart;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>reals</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &reals;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rect</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rect;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>reg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &reg;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ReverseElement</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ReverseElement;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ReverseEquilibrium</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ReverseEquilibrium;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ReverseUpEquilibrium</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ReverseUpEquilibrium;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rfisht</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rfisht;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rfloor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rfloor;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rHar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rHar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rhard</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rhard;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rharu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rharu;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rharul</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rharul;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rho</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rho;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rhov</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rhov;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightAngleBracket</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightAngleBracket;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rightarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightArrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightArrowBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightArrowBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightArrowLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightArrowLeftArrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightarrowtail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightarrowtail;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightCeiling</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightCeiling;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightDoubleBracket</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightDoubleBracket;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightDownTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightDownTeeVector;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightDownVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightDownVector;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightDownVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightDownVectorBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightFloor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightFloor;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightharpoondown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightharpoondown;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightharpoonup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightharpoonup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightleftarrows</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightleftarrows;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightleftharpoons</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightleftharpoons;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightrightarrows</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightrightarrows;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightsquigarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightsquigarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightTee;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTeeArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightTeeArrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightTeeVector;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightthreetimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rightthreetimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTriangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightTriangle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTriangleBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightTriangleBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTriangleEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightTriangleEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightUpDownVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightUpDownVector;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightUpTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightUpTeeVector;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightUpVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightUpVector;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightUpVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightUpVectorBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightVector;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RightVectorBar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ring</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ring;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>risingdotseq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &risingdotseq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rlarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rlarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rlhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rlhar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rmoust</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rmoust;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rmoustache</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rmoustache;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rnmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rnmid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>roang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &roang;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>roarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &roarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>robrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &robrk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ropar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ropar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ropf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ropf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ropf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ropf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>roplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &roplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rotimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rotimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RoundImplies</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RoundImplies;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rpar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rpar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rpargt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rpargt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rppolint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rppolint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rrarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rrightarrow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rsh;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Rsh;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rsqb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rsqb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rsquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rsquo;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rsquor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rsquor;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rthree</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rthree;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rtimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rtri;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rtrie;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtrif</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rtrif;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtriltri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rtriltri;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RuleDelayed</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &RuleDelayed;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ruluhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ruluhar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rx</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &rx;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

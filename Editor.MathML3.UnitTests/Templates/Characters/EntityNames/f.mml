@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>fallingdotseq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fallingdotseq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Fcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Fcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>female</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &female;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ffilig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ffilig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fflig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fflig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ffllig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ffllig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ffr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ffr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ffr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ffr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>filig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &filig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>FilledSmallSquare</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &FilledSmallSquare;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>FilledVerySmallSquare</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &FilledVerySmallSquare;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fjlig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fjlig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>flat</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &flat;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fllig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fllig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fltns</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fltns;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fnof</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fnof;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Fopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Fopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>forall</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &forall;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ForAll</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ForAll;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fork</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fork;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>forkv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &forkv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Fouriertrf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Fouriertrf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fpartint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fpartint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac12</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac12;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac13</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac13;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac14</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac14;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac15</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac15;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac16</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac16;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac18</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac18;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac23</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac23;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac25</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac25;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac34</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac34;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac35</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac35;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac38</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac38;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac45</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac45;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac56</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac56;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac58</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac58;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frac78</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frac78;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>frown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &frown;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>fscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &fscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Fscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Fscr;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

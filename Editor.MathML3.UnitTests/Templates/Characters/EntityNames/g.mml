@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>gacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gamma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gamma;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gamma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gamma;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gammad</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gammad;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gammad</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gammad;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gbreve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gbreve;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gbreve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gbreve;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gcedil;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gcirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gcirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gcirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gcirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ge;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gel;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gEl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gEl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>geq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &geq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>geqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &geqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>geqslant</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &geqslant;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ges</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ges;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gescc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gescc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gesdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gesdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gesdoto</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gesdoto;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gesdotol</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gesdotol;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gesl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gesl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gesles</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gesles;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gg;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gg;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ggg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ggg;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gimel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gimel;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gjcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gjcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>GJcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &GJcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gla</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gla;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>glE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &glE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>glj</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &glj;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gnap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gnap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gnapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gnapprox;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gne;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gnE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gneq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gneq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gneqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gnsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gnsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>grave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &grave;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>GreaterEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &GreaterEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>GreaterEqualLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &GreaterEqualLess;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>GreaterFullEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &GreaterFullEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>GreaterGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &GreaterGreater;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>GreaterLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &GreaterLess;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>GreaterSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &GreaterSlantEqual;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>GreaterTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &GreaterTilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gsime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gsime;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gsiml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gsiml;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Gt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Gt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtcc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtcc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtcir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtcir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtlPar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtlPar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtquest</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtquest;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtrapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtrapprox;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtrarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtrdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtrdot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtreqless</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtreqless;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtreqqless</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtreqqless;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtrless</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtrless;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gtrsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gtrsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gvertneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gvertneqq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>gvnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &gvnE;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

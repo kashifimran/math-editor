@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>yacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Yacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Yacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>yacy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yacy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>YAcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &YAcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ycirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ycirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ycirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ycirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ycy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ycy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ycy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ycy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>yen</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yen;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>yfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Yfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Yfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>yicy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yicy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>YIcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &YIcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>yopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Yopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Yopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>yscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Yscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Yscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>yucy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yucy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>YUcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &YUcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>yuml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &yuml;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Yuml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Yuml;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

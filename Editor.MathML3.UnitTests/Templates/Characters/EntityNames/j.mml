@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>jcirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &jcirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Jcirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Jcirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>jcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &jcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Jcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Jcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>jfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &jfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Jfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Jfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>jmath</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &jmath;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>jopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &jopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Jopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Jopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>jscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &jscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Jscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Jscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>jsercy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &jsercy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Jsercy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Jsercy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>jukcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &jukcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Jukcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Jukcy;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

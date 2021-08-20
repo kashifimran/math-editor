@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>macr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &macr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>male</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &male;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>malt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &malt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>maltese</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &maltese;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>map</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &map;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Map</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Map;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mapsto</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mapsto;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mapstodown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mapstodown;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mapstoleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mapstoleft;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mapstoup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mapstoup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>marker</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &marker;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mcomma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mcomma;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Mcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Mcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mdash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mdash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mDDot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mDDot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>measuredangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &measuredangle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>MediumSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &MediumSpace;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Mellintrf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Mellintrf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Mfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Mfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mho</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mho;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>micro</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &micro;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>midast</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &midast;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>midcir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &midcir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>middot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &middot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>minus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &minus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>minusb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &minusb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>minusd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &minusd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>minusdu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &minusdu;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>MinusPlus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &MinusPlus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mlcp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mlcp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mldr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mldr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mnplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mnplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>models</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &models;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Mopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Mopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Mscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Mscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mstpos</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mstpos;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mu;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>multimap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &multimap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>mumap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &mumap;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

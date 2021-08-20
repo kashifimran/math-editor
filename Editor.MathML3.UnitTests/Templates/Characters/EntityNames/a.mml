@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>aacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &aacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Aacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Aacute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>abreve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &abreve;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Abreve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Abreve;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ac</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ac;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>acd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &acd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>acE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &acE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>acirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &acirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Acirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Acirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>acute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &acute;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>acy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &acy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Acy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Acy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>aelig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &aelig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>AElig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &AElig;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>af</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &af;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>afr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &afr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Afr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Afr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>agrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &agrave;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Agrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Agrave;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>aleph</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &aleph;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>alpha</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &alpha;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>amacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &amacr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Amacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Amacr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>amalg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &amalg;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>amp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &amp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>and</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &and;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>And</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &And;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>andand</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &andand;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>andd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &andd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>andslope</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &andslope;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>andv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &andv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ang;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ange</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ange;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsdaa</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsdaa;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsdab</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsdab;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsdac</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsdac;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsdad</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsdad;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsdae</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsdae;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsdaf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsdaf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsdag</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsdag;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angmsdah</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angmsdah;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angrt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angrt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angrtvb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angrtvb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angrtvbd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angrtvbd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angsph</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angsph;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angst</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angst;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>angzarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &angzarr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>aogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &aogon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Aogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Aogon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>aopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &aopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Aopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Aopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>apacir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &apacir;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ape</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ape;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>apE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &apE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>apid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &apid;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>apos</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &apos;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ApplyFunction</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ApplyFunction;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>approx</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &approx;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>approxeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &approxeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>aring</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &aring;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Aring</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Aring;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ascr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ascr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ascr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Ascr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Assign</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Assign;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ast</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &ast;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>asymp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &asymp;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>asympeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &asympeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>atilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &atilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Atilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Atilde;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>auml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &auml;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Auml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Auml;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>awconint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &awconint;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>awint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &awint;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

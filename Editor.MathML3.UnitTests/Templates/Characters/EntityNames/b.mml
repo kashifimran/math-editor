@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>backcong</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &backcong;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>backepsilon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &backepsilon;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>backprime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &backprime;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>backsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &backsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>backsimeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &backsimeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Backslash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Backslash;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Barv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Barv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>barvee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &barvee;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>barwed</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &barwed;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Barwed</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Barwed;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>barwedge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &barwedge;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bbrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bbrk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bbrktbrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bbrktbrk;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bcong</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bcong;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Bcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Bcy;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>becaus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &becaus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>because</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &because;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Because</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Because;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bemptyv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bemptyv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bepsi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bepsi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bernou</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bernou;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Bernoullis</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Bernoullis;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>beta</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &beta;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>beth</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &beth;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>between</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &between;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Bfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Bfr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigcap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigcap;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigcirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigcirc;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigcup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigcup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigodot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigodot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigoplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigoplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigotimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigotimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigsqcup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigsqcup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigstar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigstar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigtriangledown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigtriangledown;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigtriangleup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigtriangleup;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>biguplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &biguplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigvee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigvee;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bigwedge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bigwedge;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bkarow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bkarow;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blacklozenge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blacklozenge;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blacksquare</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blacksquare;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blacktriangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blacktriangle;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blacktriangledown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blacktriangledown;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blacktriangleleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blacktriangleleft;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blacktriangleright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blacktriangleright;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blank</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blank;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blk12</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blk12;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blk14</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blk14;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>blk34</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &blk34;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>block</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &block;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bne;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bnequiv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bnequiv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bnot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bnot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bNot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bNot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Bopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Bopf;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bot;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bottom</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bottom;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bowtie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bowtie;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxbox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxbox;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxdl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxdl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxdL</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxdL;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxDl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxDl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxDL</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxDL;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxdr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxdr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxdR</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxdR;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxDr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxDr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxDR</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxDR;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxh;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxH</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxH;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxhd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxhd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxhD</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxhD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxHd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxHd;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxHD</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxHD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxhu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxhu;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxhU</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxhU;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxHu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxHu;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxHU</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxHU;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxminus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxminus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxplus;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxtimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxtimes;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxul</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxul;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxuL</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxuL;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxUl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxUl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxUL</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxUL;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxur</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxur;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxuR</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxuR;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxUr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxUr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxUR</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxUR;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxv;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxV</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxV;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxvh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxvh;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxvH</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxvH;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxVh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxVh;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxVH</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxVH;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxvl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxvl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxvL</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxvL;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxVl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxVl;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxVL</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxVL;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxvr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxvr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxvR</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxvR;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxVr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxVr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>boxVR</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &boxVR;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bprime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bprime;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>breve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &breve;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Breve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Breve;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>brvbar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &brvbar;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Bscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Bscr;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bsemi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bsemi;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bsim;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bsime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bsime;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bsol</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bsol;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bsolb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bsolb;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bsolhsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bsolhsub;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bull</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bull;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bullet</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bullet;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bump</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bump;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bumpe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bumpe;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bumpE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bumpE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>bumpeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &bumpeq;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Bumpeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &Bumpeq;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>
