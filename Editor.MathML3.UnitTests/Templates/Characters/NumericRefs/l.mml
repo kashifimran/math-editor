@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>lAarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021DA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0013A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00139;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>laemptyv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029B4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lagran</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02112;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lambda</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003BB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lambda</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0039B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027EA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>langd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02991;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>langle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A85;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Laplacetrf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02112;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>laquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000AB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02190;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Larr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larrb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021E4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larrbfs</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0291F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larrfs</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0291D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larrhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larrlp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021AB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larrpl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02939;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larrsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02973;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>larrtl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lat</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>latail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02919;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lAtail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0291B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>late</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lates</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAD;&#x0FE00;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lbarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0290C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lBarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0290E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lbbrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02772;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lbrace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0007B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lbrack</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0005B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lbrke</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0298B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lbrksld</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0298F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lbrkslu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0298D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0013E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0013D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0013C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0013B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lceil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02308;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lcub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0007B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0043B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0041B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ldca</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02936;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ldquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0201C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ldquor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0201E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ldrdhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02967;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ldrushar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0294B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ldsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021B2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>le</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02264;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02266;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftAngleBracket</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02190;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Leftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02190;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftArrowBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021E4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftArrowRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftarrowtail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftCeiling</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02308;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftDoubleBracket</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftDownTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02961;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftDownVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftDownVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02959;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftFloor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0230A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftharpoondown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftharpoonup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftleftarrows</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02194;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Leftrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02194;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftrightarrows</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftrightharpoons</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftrightsquigarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021AD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftRightVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0294E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftTee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftTeeArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0295A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leftthreetimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022CB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftTriangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftTriangleBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029CF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftTriangleEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftUpDownVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02951;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftUpTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02960;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftUpVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftUpVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02958;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LeftVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02952;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022DA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lEg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A8B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02264;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02266;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>leqslant</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>les</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lescc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AA8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lesdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lesdoto</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A81;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lesdotor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A83;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lesg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022DA;&#x0FE00;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lesges</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A93;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lessapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A85;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lessdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lesseqgtr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022DA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lesseqqgtr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A8B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LessEqualGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022DA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LessFullEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02266;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LessGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02276;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lessgtr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02276;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LessLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AA1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lesssim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02272;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LessSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LessTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02272;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lfisht</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0297C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lfloor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0230A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D529;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D50F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02276;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lgE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A91;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lHar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02962;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lhard</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lharu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lharul</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0296A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lhblk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02584;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ljcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00459;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LJcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00409;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ll</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ll</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>llarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>llcorner</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0231E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lleftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021DA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>llhard</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0296B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lltri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025FA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lmidot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00140;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lmidot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0013F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lmoust</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023B0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lmoustache</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023B0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lnap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A89;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lnapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A89;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A87;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02268;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lneq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A87;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02268;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lnsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>loang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027EC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>loarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021FD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lobrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>longleftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Longleftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LongLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>longleftrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Longleftrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027FA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LongLeftRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>longmapsto</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027FC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>longrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Longrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LongRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>looparrowleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021AB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>looparrowright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021AC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lopar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02985;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D55D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D543;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>loplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A2D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lotimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A34;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lowast</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02217;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lowbar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0005F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LowerLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02199;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>LowerRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02198;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>loz</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025CA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lozenge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025CA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lozf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029EB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lpar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00028;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lparlt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02993;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lrcorner</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0231F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lrhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lrhard</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0296D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lrtri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022BF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4C1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02112;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021B0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021B0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02272;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lsime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A8D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lsimg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A8F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lsqb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0005B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lsquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02018;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lsquor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0201A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lstrok</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00142;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lstrok</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00141;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo>&lt;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Lt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltcc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AA6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltcir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A79;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lthree</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022CB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltlarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02976;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltquest</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025C3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltrif</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025C2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ltrPar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02996;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lurdshar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0294A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>luruhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02966;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lvertneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02268;&#x0FE00;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>lvnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02268;&#x0FE00;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>zacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0017A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Zacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00179;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0017E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Zcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0017D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00437;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Zcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00417;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0017C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Zdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0017B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zeetrf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02128;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ZeroWidthSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0200B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zeta</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003B6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D537;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Zfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02128;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zhcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00436;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ZHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00416;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zigrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021DD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D56B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Zopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02124;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>zscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4CF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Zscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4B5;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

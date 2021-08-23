@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>sacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0015B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0015A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ABC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00161;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Scaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00160;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sccue</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sce</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0015F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Scedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0015E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0015D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Scirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0015C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scnap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ABA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scnsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scpolint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A13;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>scy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00441;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Scy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00421;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sdotb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sdote</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A66;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>searhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02925;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>searr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02198;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>seArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>searrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02198;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sect</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000A7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>semi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0003B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>seswar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02929;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>setminus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02216;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>setmn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02216;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sext</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02736;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D530;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D516;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sfrown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02322;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sharp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0266F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shchcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00449;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SHCHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00429;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00448;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00428;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ShortDownArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02193;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ShortLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02190;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shortmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02223;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shortparallel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02225;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ShortRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02192;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ShortUpArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02191;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>shy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000AD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sigma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003C3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sigma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003A3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sigmav</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003C2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0223C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A6A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02243;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02243;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A9E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simgE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AA0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>siml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A9D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simlE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A9F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02246;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A24;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>simrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02972;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>slarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02190;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SmallCircle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02218;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smallsetminus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02216;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smashp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A33;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smeparsl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029E4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02223;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smile</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02323;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smte</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>smtes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAC;&#x0FE00;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>softcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0044C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SOFTcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0042C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sol</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0002F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>solb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029C4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>solbar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0233F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D564;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D54A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>spades</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02660;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>spadesuit</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02660;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>spar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02225;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqcap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02293;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqcaps</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02293;&#x0FE00;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqcup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02294;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqcups</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02294;&#x0FE00;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sqrt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0221A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02291;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsubseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02291;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02290;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsupe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02292;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsupset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02290;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sqsupseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02292;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>squ</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025A1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>square</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025A1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Square</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025A1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareIntersection</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02293;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareSubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareSubsetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02291;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareSuperset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02290;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareSupersetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02292;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SquareUnion</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02294;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>squarf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025AA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>squf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025AA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>srarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02192;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4C8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4AE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ssetmn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02216;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ssmile</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02323;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sstarf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>star</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02606;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Star</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>starf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02605;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>straightepsilon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003F5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>straightphi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003D5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>strns</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000AF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02282;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ABD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02286;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subedot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>submult</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ACB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ABF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02979;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02282;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Subset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02286;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subseteqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SubsetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02286;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsetneq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsetneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ACB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AD5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>subsup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AD3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succ</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succcurlyeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Succeeds</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SucceedsEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SucceedsSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SucceedsTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succnapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ABA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succnsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>succsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SuchThat</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0220B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sum</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02211;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sum</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02211;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sung</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0266A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02283;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Sup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sup1</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000B9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sup2</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000B2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>sup3</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000B3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ABE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supdsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AD8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02287;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supedot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Superset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02283;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>SupersetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02287;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>suphsol</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027C9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>suphsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AD7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>suplarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0297B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supmult</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supnE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ACC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02283;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Supset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02287;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supseteqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsetneq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsetneqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ACC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AD4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>supsup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AD6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swarhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02926;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02199;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02199;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>swnwar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0292A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>szlig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000DF;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

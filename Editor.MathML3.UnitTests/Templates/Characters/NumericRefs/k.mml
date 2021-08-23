@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>kappa</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003BA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kappav</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003F0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00137;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00136;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0043A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0041A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D528;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D50E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kgreen</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00138;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>khcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00445;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>KHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00425;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kjcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0045C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>KJcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0040C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D55C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D542;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>kscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4C0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Kscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4A6;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

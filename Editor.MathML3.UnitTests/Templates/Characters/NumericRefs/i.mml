@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>iacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000ED;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000CD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ic</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02063;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>icirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000EE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Icirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000CE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>icy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00438;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Icy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00418;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Idot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00130;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iecy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00435;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>IEcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00415;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iexcl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000A1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iff</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ifr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D526;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ifr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02111;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>igrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000EC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Igrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000CC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ii</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02148;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iiiint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A0C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iiint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0222D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iinfin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029DC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iiota</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02129;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ijlig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00133;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>IJlig</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00132;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Im</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02111;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0012B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Imacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0012A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>image</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02111;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ImaginaryI</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02148;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imagline</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02110;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imagpart</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02111;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imath</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00131;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imof</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>imped</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x001B5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Implies</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>in</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02208;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>incare</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02105;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>infin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0221E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>infintie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029DD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>inodot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00131;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>int</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0222B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Int</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0222C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>intcal</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022BA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>integers</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02124;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Integral</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0222B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>intercal</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022BA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Intersection</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>intlarhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A17;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>intprod</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A3C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>InvisibleComma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02063;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>InvisibleTimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02062;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iocy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00451;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>IOcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00401;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0012F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0012E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D55A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D540;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iota</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003B9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iprod</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A3C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iquest</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000BF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4BE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02110;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02208;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isindot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isinE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isins</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isinsv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>isinv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02208;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>it</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02062;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>itilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00129;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Itilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00128;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iukcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00456;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iukcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00406;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>iuml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000EF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Iuml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000CF;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

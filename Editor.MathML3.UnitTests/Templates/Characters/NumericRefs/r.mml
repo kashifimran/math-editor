@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>rAarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021DB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>race</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0223D;&#x00331;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>racute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00155;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Racute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00154;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>radic</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0221A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>raemptyv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029B3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027EB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rangd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02992;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>range</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029A5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>raquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000BB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02192;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02975;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021E5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrbfs</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02920;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02933;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrfs</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0291E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021AA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrlp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021AC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrpl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02945;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02974;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrtl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rarrtl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02916;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rarrw</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ratail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0291A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rAtail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0291C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ratio</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02236;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rationals</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0290D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rBarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0290F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RBarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02910;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbbrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02773;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0007D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrack</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0005D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrke</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0298C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrksld</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0298E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rbrkslu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02990;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00159;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00158;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00157;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00156;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rceil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02309;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rcub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0007D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00440;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00420;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdca</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02937;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdldhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02969;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0201D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdquor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0201D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rdsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021B3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Re</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>real</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>realine</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>realpart</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>reals</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rect</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025AD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>reg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000AE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ReverseElement</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0220B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ReverseEquilibrium</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ReverseUpEquilibrium</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0296F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rfisht</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0297D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rfloor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0230B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D52F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rHar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02964;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rhard</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rharu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rharul</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0296C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rho</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003C1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rhov</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003F1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightAngleBracket</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02192;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02192;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightArrowBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021E5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightArrowLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightarrowtail</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightCeiling</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02309;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightDoubleBracket</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightDownTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0295D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightDownVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightDownVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02955;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightFloor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0230B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightharpoondown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightharpoonup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightleftarrows</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightleftharpoons</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightrightarrows</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightsquigarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTeeArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0295B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rightthreetimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022CC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTriangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTriangleBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029D0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightTriangleEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightUpDownVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0294F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightUpTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0295C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightUpVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightUpVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02954;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RightVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02953;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ring</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x002DA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>risingdotseq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02253;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rlarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rlhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rmoust</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023B1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rmoustache</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023B1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rnmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AEE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>roang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027ED;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>roarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021FE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>robrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027E7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ropar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02986;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ropf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D563;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ropf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>roplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A2E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rotimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A35;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RoundImplies</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02970;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rpar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00029;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rpargt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02994;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rppolint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A12;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021DB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4C7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021B1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Rsh</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021B1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rsqb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0005D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rsquo</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02019;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rsquor</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02019;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rthree</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022CC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022CA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025B9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtrif</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025B8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rtriltri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029CE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>RuleDelayed</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029F4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ruluhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02968;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>rx</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0211E;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

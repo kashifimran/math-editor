@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>nabla</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02207;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00144;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Nacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00143;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nang</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02220;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02249;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>napE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A70;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>napid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0224B;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>napos</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00149;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>napprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02249;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>natur</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0266E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>natural</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0266E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>naturals</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02115;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nbsp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000A0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nbump</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0224E;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nbumpe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0224F;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A43;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00148;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ncaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00147;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00146;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ncedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00145;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncong</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02247;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncongdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A6D;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A42;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ncy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0043D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ncy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0041D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ndash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02013;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ne</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02260;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nearhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02924;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nearr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02197;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>neArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nearrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02197;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nedot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02250;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NegativeMediumSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0200B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NegativeThickSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0200B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NegativeThinSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0200B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NegativeVeryThinSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0200B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nequiv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02262;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nesear</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02928;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nesim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02242;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NestedGreaterGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NestedLessLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NewLine</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0000A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nexist</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02204;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nexists</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02204;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D52B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Nfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D511;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02271;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02267;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02271;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngeqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02267;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngeqslant</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7E;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nges</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7E;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nGg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D9;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02275;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nGt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226B;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ngtr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nGtv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226B;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nharr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021AE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nhArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nhpar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AF2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ni</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0220B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nis</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022FC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nisd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022FA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>niv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0220B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>njcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0045A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NJcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0040A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nldr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02025;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02270;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02266;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLeftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleftrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021AE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLeftrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02270;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02266;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nleqslant</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7D;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nles</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7D;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nless</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022D8;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02274;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nlt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226A;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nltri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nltrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nLtv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226A;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02224;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NoBreak</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02060;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NonBreakingSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000A0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D55F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Nopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02115;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>not</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000AC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Not</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AEC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotCongruent</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02262;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotCupCap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotDoubleVerticalBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02226;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotElement</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02209;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02260;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotEqualTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02242;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotExists</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02204;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02271;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterFullEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02267;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226B;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02279;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7E;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotGreaterTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02275;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotHumpDownHump</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0224E;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotHumpEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0224F;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02209;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notindot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F5;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notinE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F9;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notinva</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02209;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notinvb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notinvc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLeftTriangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLeftTriangleBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029CF;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLeftTriangleEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02270;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02278;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226A;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A7D;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotLessTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02274;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotNestedGreaterGreater</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AA2;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotNestedLessLess</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AA1;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notni</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0220C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notniva</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0220C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notnivb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022FE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>notnivc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022FD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotPrecedes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02280;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotPrecedesEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAF;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotPrecedesSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotReverseElement</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0220C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotRightTriangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotRightTriangleBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029D0;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotRightTriangleEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022ED;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSquareSubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228F;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSquareSubsetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSquareSuperset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02290;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSquareSupersetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02282;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSubsetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02288;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSucceeds</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02281;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSucceedsEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB0;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSucceedsSlantEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSucceedsTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0227F;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSuperset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02283;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotSupersetEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02289;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02241;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotTildeEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02244;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotTildeFullEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02247;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotTildeTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02249;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>NotVerticalBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02224;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02226;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nparallel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02226;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nparsl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AFD;&#x020E5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npart</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02202;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npolint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A14;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02280;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nprcue</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npre</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAF;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nprec</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02280;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>npreceq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AAF;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrarrc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02933;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrarrw</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219D;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nRightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrtri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nrtrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022ED;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02281;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsccue</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsce</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB0;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4C3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Nscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4A9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nshortmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02224;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nshortparallel</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02226;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02241;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02244;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsimeq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02244;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsmid</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02224;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nspar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02226;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsqsube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsqsupe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022E3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsub</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02284;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsube</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02288;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsubE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC5;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsubset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02282;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsubseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02288;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsubseteqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC5;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsucc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02281;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsucceq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AB0;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsup</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02285;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupe</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02289;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupE</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC6;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupset</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02283;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupseteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02289;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nsupseteqq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AC6;&#x00338;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntgl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02279;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000F1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ntilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000D1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntlg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02278;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntriangleleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntrianglelefteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntriangleright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022EB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ntrianglerighteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022ED;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nu</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003BD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>num</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00023;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>numero</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02116;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>numsp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02007;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0224D;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvdash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022AC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvDash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022AD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nVdash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022AE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nVDash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022AF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02265;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvgt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0003E;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvHarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02904;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvinfin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029DE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvlArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02902;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02264;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvlt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo>&lt;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvltrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B4;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvrArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02903;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvrtrie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B5;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nvsim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0223C;&#x020D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwarhk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02923;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02196;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02196;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>nwnear</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02927;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

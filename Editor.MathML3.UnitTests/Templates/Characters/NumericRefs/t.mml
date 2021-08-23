@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Tab</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00009;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>target</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02316;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tau</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003C4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tbrk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023B4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00165;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Tcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00164;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00163;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Tcedil</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00162;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00442;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Tcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00422;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x020DB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>telrec</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02315;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D531;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Tfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D517;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>there4</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02234;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>therefore</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02234;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Therefore</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02234;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>theta</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003B8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Theta</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00398;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>thetav</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003D1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>thickapprox</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02248;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>thicksim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0223C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ThickSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0205F;&#x0200A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>thinsp</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02009;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ThinSpace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02009;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>thkap</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02248;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>thksim</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0223C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>thorn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000FE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>THORN</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000DE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x002DC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Tilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0223C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>TildeEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02243;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>TildeFullEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02245;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>TildeTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02248;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>times</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000D7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>timesb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>timesbar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A31;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>timesd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A30;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tint</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0222D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>toea</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02928;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>top</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>topbot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02336;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>topcir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AF1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>topf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D565;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Topf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D54B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>topfork</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02ADA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tosa</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02929;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tprime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02034;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>trade</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02122;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>triangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025B5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>triangledown</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025BF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>triangleleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025C3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>trianglelefteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>triangleq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0225C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>triangleright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025B9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>trianglerighteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022B5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tridot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025EC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>trie</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0225C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>triminus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A3A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>TripleDot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x020DB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>triplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A39;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>trisb</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029CD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tritime</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A3B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>trpezium</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023E2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4C9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Tscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4AF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tscy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00446;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>TScy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00426;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tshcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0045B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>TSHcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0040B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>tstrok</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00167;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Tstrok</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00166;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>twixt</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0226C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>twoheadleftarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>twoheadrightarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A0;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

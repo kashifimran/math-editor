@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>uacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000FA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uacute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000DA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02191;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0219F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uarrocir</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02949;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ubrcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0045E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ubrcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0040E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ubreve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0016D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ubreve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0016C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ucirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000FB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ucirc</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000DB;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ucy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00443;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ucy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00423;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>udarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>udblac</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00171;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Udblac</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00170;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>udhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0296E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ufisht</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0297E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ufr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D532;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ufr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D518;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ugrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000F9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Ugrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000D9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uHar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02963;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uharl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uharr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uhblk</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02580;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ulcorn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0231C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ulcorner</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0231C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ulcrop</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0230F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ultri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025F8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>umacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0016B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Umacr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0016A;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000A8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UnderBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0005F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UnderBrace</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023DF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UnderBracket</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023B5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UnderParenthesis</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x023DD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Union</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UnionPlus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00173;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uogon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00172;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D566;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D54C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uparrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02191;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uparrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02191;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpArrowBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02912;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpArrowDownArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>updownarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02195;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Updownarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpDownArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02195;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpEquilibrium</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0296E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>upharpoonleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>upharpoonright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0228E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpperLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02196;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpperRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02197;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>upsi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003C5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Upsi</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>upsilon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003C5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Upsilon</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003A5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpTee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>UpTeeArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>upuparrows</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>urcorn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0231D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>urcorner</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0231D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>urcrop</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0230E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uring</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0016F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uring</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0016E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>urtri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025F9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4CA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4B0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>utdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>utilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00169;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Utilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00168;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>utri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025B5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>utrif</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025B4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uuarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uuml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000FC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Uuml</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000DC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>uwangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029A7;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>

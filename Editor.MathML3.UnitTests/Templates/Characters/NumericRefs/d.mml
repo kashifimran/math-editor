@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>dagger</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02020;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dagger</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02020;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dagger</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02021;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dagger</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02021;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>daleth</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02138;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>darr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02193;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dArr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Darr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dash</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02010;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dashv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dashv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AE4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dbkarow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0290F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dblac</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x002DD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0010F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dcaron</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0010E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00434;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00414;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02146;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DD</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02145;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ddagger</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02021;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ddarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DDotrahd</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02911;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>ddotseq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02A77;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>deg</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000B0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Del</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02207;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>delta</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003B4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Delta</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00394;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>demptyv</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029B1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dfisht</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0297F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D521;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dfr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D507;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dHar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02965;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dharl</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dharr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DiacriticalAcute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000B4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DiacriticalDot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x002D9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DiacriticalDoubleAcute</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x002DD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DiacriticalGrave</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00060;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DiacriticalTilde</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x002DC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>diam</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>diamond</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Diamond</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>diamondsuit</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02666;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>diams</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02666;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>die</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000A8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DifferentialD</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02146;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>digamma</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x003DD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>disin</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>div</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000F7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>divide</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000F7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>divideontimes</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>divonx</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022C7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>djcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00452;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DJcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00402;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dlcorn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0231E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dlcrop</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0230D;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dollar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00024;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D555;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dopf</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D53B;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x002D9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000A8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DotDot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x020DC;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>doteq</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02250;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>doteqdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02251;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DotEqual</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02250;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dotminus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02238;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dotplus</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02214;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dotsquare</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>doublebarwedge</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02306;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleContourIntegral</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0222F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleDot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x000A8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleDownArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D0;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleLeftRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleLeftTee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02AE4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleLongLeftArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleLongLeftRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027FA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleLongRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027F9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleRightArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleRightTee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A8;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleUpArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleUpDownArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DoubleVerticalBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02225;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>downarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02193;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Downarrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021D3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02193;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownArrowBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02913;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownArrowUpArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021F5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownBreve</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00311;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>downdownarrows</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021CA;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>downharpoonleft</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C3;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>downharpoonright</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C2;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownLeftRightVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02950;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownLeftTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0295E;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownLeftVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021BD;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownLeftVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02956;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownRightTeeVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0295F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownRightVector</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021C1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownRightVectorBar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02957;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownTee</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022A4;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DownTeeArrow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021A7;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>drbkarow</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x02910;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>drcorn</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0231F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>drcrop</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0230C;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D4B9;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dscr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x1D49F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dscy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00455;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DScy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00405;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dsol</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029F6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dstrok</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00111;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>Dstrok</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x00110;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dtdot</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x022F1;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dtri</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025BF;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dtrif</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x025BE;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>duarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x021F5;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>duhar</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0296F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dwangle</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x029A6;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dzcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0045F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>DZcy</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x0040F;</mo> 
+      </mtd> 
+    </mtr> 
+    <mtr>
+      <mtd>
+        <mtext>dzigrarr</mtext> 
+      </mtd> 
+      <mtd>
+        <mo> &#x027FF;</mo> 
+      </mtd> 
+    </mtr> 
+  </mtable> 
+</math>
